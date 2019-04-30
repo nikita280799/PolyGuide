@@ -1,5 +1,6 @@
 package com.example.dwohco.poly_guide;
 
+import android.app.Activity;
 import android.app.Application;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
@@ -9,18 +10,18 @@ import android.os.Bundle;
 
 import java.util.Locale;
 
-public class SettingsActivity extends Application {
+public class SettingsActivity extends AppCompatActivity {
 
     private SharedPreferences preferences;
     private Locale locale;
     private String lang;
 
-    @Override
+    //@Override
     public void onCreate() {
-        super.onCreate();
+        //super.onCreate();
         preferences = PreferenceManager.getDefaultSharedPreferences(this);
-        lang = preferences.getString("lang", "default");
-        if (lang.equals("default")) {
+        lang = preferences.getString("lang", "en");
+        if (lang.equals("en")) {
             lang = getResources().getConfiguration().locale.getCountry();
         }
         locale = new Locale(lang);

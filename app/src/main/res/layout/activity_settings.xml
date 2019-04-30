@@ -6,13 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".SettingsActivity">
 
-    <ListPreference
+    <ListView
         android:key="lang"
-        android:title="@string/LangTitle"
-        android:summary="@string/LangSummary"
+        android:title="@string/lang_title"
+        android:summary="@string/reboot"
         android:entries="@array/entries_lang"
         android:entryValues="@array/entryvalues_lang"
-        android:dialogTitle="@string/LangDialogTitle"
-        />
+        android:dialogTitle="@string/lang_dialog_title"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" />
 
 </android.support.constraint.ConstraintLayout>
