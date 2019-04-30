@@ -1,7 +1,11 @@
 package com.example.dwohco.poly_guide;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageButton;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -10,4 +14,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void settings (View view) {
+        Intent intentSettings = new Intent(MainActivity.this, SettingsActivity.class);
+        startActivity (intentSettings);
+    }
+
+    public void info (View view) {
+        Intent intentInfo = new Intent(MainActivity.this, InfoActivity.class);
+        startActivity (intentInfo);
+    }
+
 }

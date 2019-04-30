@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".InfoSocialActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/settlement"
+            android:textColor="@color/darkPoly"
+            android:onClick="settlement"
+            android:textSize="18dp" />
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/hostel"
+            android:textSize="18dp"
+            android:onClick="hostel"
+            android:textColor="@color/darkPoly"/>
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/relax"
+            android:textSize="18dp"
+            android:onClick="relax"
+            android:textColor="@color/darkPoly"/>
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/medical"
+            android:textSize="18dp"
+            android:onClick="medical"
+            android:textColor="@color/darkPoly"/>
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/grant"
+            android:textSize="18dp"
+            android:onClick="grant"
+            android:textColor="@color/darkPoly"/>
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/army"
+            android:textSize="18dp"
+            android:onClick="army"
+            android:textColor="@color/darkPoly"/>
+
+        <Button
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/trip"
+            android:textSize="18dp"
+            android:onClick="trip"
+            android:textColor="@color/darkPoly"/>
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:textSize="18dp"
+            app:itemBackground="@color/white"
+            app:itemIconTint="@color/darkPoly"
+            app:itemTextColor="@color/darkPoly"
+            app:menu="@menu/menu_bottom_navigation" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
