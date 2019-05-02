@@ -25,7 +25,7 @@ public class ConcreteInfoSocialActivity extends AppCompatActivity {
         titleSocial = findViewById(R.id.title);
         Intent intent = getIntent();
 
-        String htmlSocialSettlement  =  getString(R.string.social_settlement);
+        String htmlSocialSettlement = getString(R.string.social_settlement);
         String htmlSocialHostel = getString(R.string.social_hostel);
         String htmlSocialRelax = getString(R.string.social_relax);
         String htmlSocialMedical = getString(R.string.social_medical);
@@ -53,7 +53,7 @@ public class ConcreteInfoSocialActivity extends AppCompatActivity {
         String htmlAfter = getString(R.string.info_after);
         String htmlPortal = getString(R.string.info_portal);
 
-        Spanned readySocialSettlement  =  Html.fromHtml(htmlSocialSettlement);
+        Spanned readySocialSettlement = Html.fromHtml(htmlSocialSettlement);
         Spanned readySocialHostel = Html.fromHtml(htmlSocialHostel);
         Spanned readySocialRelax = Html.fromHtml(htmlSocialRelax);
         Spanned readySocialMedical = Html.fromHtml(htmlSocialMedical);
@@ -114,7 +114,7 @@ public class ConcreteInfoSocialActivity extends AppCompatActivity {
                 break;
             case 7:
                 Intent intentInfo = new Intent(ConcreteInfoSocialActivity.this, SocialHelpActivity.class);
-                startActivity (intentInfo);
+                startActivity(intentInfo);
                 break;
             case 8:
                 titleSocial.setText(R.string.title_support_a);
@@ -198,7 +198,9 @@ public class ConcreteInfoSocialActivity extends AppCompatActivity {
                 break;
         }
     }
-    public void backSocial (View view) {
+
+    public void backSocial(View view) {
         finish();
     }
+
 }

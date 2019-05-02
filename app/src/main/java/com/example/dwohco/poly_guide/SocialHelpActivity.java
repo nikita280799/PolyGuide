@@ -149,4 +149,9 @@ public class SocialHelpActivity extends AppCompatActivity {
         intentP.putExtra("key", key);
         startActivity (intentP);
     }
+    @Override
+    public void onBackPressed() {
+        Intent intentBack = new Intent(SocialHelpActivity.this, InfoActivity.class);
+        startActivity(intentBack);
+    }
 }

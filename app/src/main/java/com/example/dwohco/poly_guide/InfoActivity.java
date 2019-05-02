@@ -69,4 +69,10 @@ public class InfoActivity extends AppCompatActivity {
         intentPortal.putExtra("key", key);
         startActivity (intentPortal);
     }
+
+    @Override
+    public void onBackPressed() {
+        Intent intentBack = new Intent(InfoActivity.this, MainActivity.class);
+        startActivity(intentBack);
+    }
 }

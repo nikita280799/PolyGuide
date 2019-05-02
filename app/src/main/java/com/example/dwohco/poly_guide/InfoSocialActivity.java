@@ -87,4 +87,10 @@ public class InfoSocialActivity extends AppCompatActivity {
         intentTrip.putExtra("key", key);
         startActivity (intentTrip);
     }
+
+    @Override
+    public void onBackPressed() {
+        Intent intentBack = new Intent(InfoSocialActivity.this, InfoActivity.class);
+        startActivity(intentBack);
+    }
 }

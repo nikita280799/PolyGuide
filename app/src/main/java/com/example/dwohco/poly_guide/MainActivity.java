@@ -15,11 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void settings (View view) {
-        Intent intentSettings = new Intent(MainActivity.this, SettingsActivity.class);
-        startActivity (intentSettings);
-    }
-
     public void info (View view) {
         Intent intentInfo = new Intent(MainActivity.this, InfoActivity.class);
         startActivity (intentInfo);

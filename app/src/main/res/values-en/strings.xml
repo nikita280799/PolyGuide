@@ -1,1566 +1,1159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PolyGuide</string>
-    <string name="back">Назад (англ.)</string>
-    <string name="home">Домой (англ.)</string>
-    <string name="search">Карта приложения (англ.)</string>
-    <string name="info_name">Полезная информация (англ.)</string>
-    <string name="timetable">Расписание (англ.)</string>
-    <string name="doc">Справки (англ.)</string>
-    <string name="foreign_students">Иностранным студентам (англ.)</string>
-    <string name="portal">Электронные порталы (англ.)</string>
-    <string name="associations">Студенческие объединения (англ.)</string>
-    <string name="help">Социальное обеспечение (англ.)</string>
-    <string name="settlement">Поселение студентов первого курса (англ.)</string>
-    <string name="hostel">Общежития (англ.)</string>
-    <string name="medical">Медицинское обслуживание (англ.)</string>
-    <string name="grant">Стипендии, социальная поддержка (англ.)</string>
-    <string name="army">Отсрочка от призыва на военную службу (англ.)</string>
-    <string name="trip">Льготный проезд (англ.)</string>
-    <string name="support">Материальная поддержка (англ.)</string>
-    <string name="relax">Базы отдыха (англ.)</string>
-    <string name="title_settlement">Инструкция по порядку поселения иногородних студентов первого курса в общежития Студенческого городка СПбПУ:</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="search">App map</string>
+    <string name="info_name">Useful information</string>
+    <string name="timetable">Schedule</string>
+    <string name="doc">Certificates</string>
+    <string name="foreign_students">For foreign students</string>
+    <string name="portal">E-portals</string>
+    <string name="associations">Students communities</string>
+    <string name="help">Social services</string>
+    <string name="settlement">Freshmen accomodation</string>
+    <string name="hostel">Dormitories</string>
+    <string name="medical">Medical care</string>
+    <string name="grant">Scholarships, social assistance</string>
+    <string name="army">Military service postponement</string>
+    <string name="trip">Public transport reduced fares</string>
+    <string name="support">Material support</string>
+    <string name="relax">Recreation departments</string>
+    <string name="title_settlement">Instructions on the order of settlement of nonresident freshmen in the dormitory of the campus of SPbPU:</string>
     <string name="social_settlement" formatted="false"><![CDATA[
-        1. Поселение студентов первого курса производится в соответствии
-        со списками, предоставленными институтами и колледжем (списки о предоставлении мест
-        размещены на сайте СПбПУ в разделах институтов). <br/><br/>
+        <br/>1. Settlement of freshmen is carried out in accordance with the lists provided by institutes and college (lists of provision of
+rooms are placed on the SPbPU website in the sections of the institutes).<br/><br/>
 
-        2. Документы, необходимые для поселения в общежитие и оформления договора найма жилого помещения: <br/>
-        - паспорт, копия паспорта (лист 1 и лист с данными о регистрации); <br/>
-        - 3 фотографии 3*4; <br/>
-        - приписное свидетельство или военный билет (для лиц мужского пола);<br/>
-        - полис обязательного медицинского страхования; <br/>
-        - медицинская справка (форма 086); <br/>
-        - справка (форма 063) или сертификат о прививках; <br/>
-        - нотариально заверенное согласие законных представителей: родителей, усыновителей или попечителей (ст. 26 ГК РФ) (для несовершеннолетних студентов). <br/>
+        2. Documents required for settling in a dormitory and allocation of a residential tenancy agreement: <br/>
+        - passport, copy of passport; <br/>
+        - 3 photos 3*4; <br/>
+        - registration certificate or military ID (for males);<br/>
+        - medical insurance; <br/>
+        - medical certificate (086 form);; <br/>
+        - certificate (063 form) or vaccinations certificate; <br/>
+        - Notarized consent of legal representatives: parents, adopters or guardians (for juvenile students) <br/>
 
-        3. По прибытии в университет студент: <br/>
-        - Заселяется в закреплённое за институтом (колледжем) общежитие. <br/>
-        - Для дальнейшего оформления обращается, в соответствии с графиком, в Единый центр по оформлению регистрации и поселению
-        иногородних граждан (Санкт-Петербург, пр. Непокорённых, д.8, корп.2, тел. (812) 248-92-09). <br/>
-        - Проходит медицинский осмотр и получает справку в поликлинике №76 (Санкт-Петербург, ул. Хлопина, д.11, корп.1). <br/><br/>
+        3. Upon arrival at the university student: <br/>
+        -Settles in a dormitory assigned to the institute (college). <br/>
+        - Appeals to the one-stop-center for registration and settlement of non-resident citizens for further registration, in accordance with the schedule(Block 2, 8, Nepokorennyh Avenue, St.Ptersburg, (812)248-92-09). <br/>
+        - Undergoes a medical examination and receives a certificate in the clinic number 76(Block 1, 11, st. Khlopina, St-Petersburg). <br/><br/>
 
-        4. Студенты первого курса, приехавшие в СПбПУ в выходные дни или в нерабочее время, для временного
-        поселения могут обращаться в общежитие №8 (Санкт-Петербург, ул. Хлопина, д.9, корп.2, тел. (812) 297-43-50). <br/><br/>
+        4. Freshmen who arrived at SPbPU on weekends or during non-working hours may apply to dormitory number 8 for temporary accommodation.(Block 2, 9, st.Khlopina, St-Peterburg, (812)297-43-50). <br/><br/>
 
-        5. Для родителей или лиц, сопровождающих студентов, предусмотрена возможность проживания в номерах
-        повышенной комфортности Студенческого городка при наличии свободных мест и предварительного
-        бронирования. Бронирование номеров и поселение сопровождающих осуществляется администрацией
-        комплекса дополнительного обслуживания (Гражданский проспект, д. 28, тел.(812)534-13-68, e-mail: hotel@spbstu.ru). <br/>
+        5. For parents or persons accompanying students, there is a possibility to stay in the superior rooms of the Campus provided availability and advanced booking. Booking and accommodation are carried out by the administration of the complex of additional services (28, Grazhdansky Avenue, St-Petersburg, (812)534-13-68, e-mail: hotel@spbstu.ru). <br/>
         ]]>
 </string>
-    <string name="social_hostel"> formatted="false"><![CDATA[
-       <br/>В общежитиях Студенческого городка СПбПУ проживают более 10 000 иногородних и иностранных студентов.
-       Все общежития расположены в шаговой доступности от остановок городского наземного транспорта или метрополитена.<br/><br/>
+    <string name="social_hostel" formatted="false"><![CDATA[
+       <br/> More than 10,000 nonresident and foreign students live in the dormitories of the SPbPU campus.
+       All the dormitories are located within walking distance from bus stops or subway stations.<br/><br/>
 
-       Территориально Студенческий городок разделён на 3 комплекса общежитий: <br/>
-       - «на Лесном проспекте»; <br/>
-       - «на Площади Мужества»;<br/>
-       - «на Гражданском проспекте».<br/><br/>
+       The campus is divided into 3 dormitory complexes: <br/>
+       - «On Lesnoy Avenue»; <br/>
+       - «At Ploschad Muzhestva»;<br/>
+       - «On Grazhdansky Avenue».<br/><br/>
 
-       Студенты в общежитиях Студенческого городка СПбПУ проживают по 2, 3 или 4 человека в комнате.
-       Все корпуса оснащены системами контроля доступа и системами наружного и внутреннего видеонаблюдения.
-       Вход в общежития осуществляется по пропускам. <br/><br/>
-       Иностранные студенты университета, как правило, проживают в общежитиях №13 и №15 комплекса
-       «на Гражданском проспекте и в общежитиях №8 и № 12 комплекса «на Площади Мужества». <br/><br/>
+       Students in dormitories of SPbPU live in 2, 3 or 4 people in a room.
+       All dormitories are equipped with access control systems and external and internal video surveillance systems.
+       Entrance to the dormitories is by pass <br/><br/>
+       Foreign students of the university normally live in dormitories No. 13 and No. 15 of the complex “on Grazhdansky Avenue” and in dormitories No. 8 and No. 12 of the complex “At Ploschad Muzhestva”;<br/><br/>
 
-       Для комфортной, насыщенной и интересной жизни студентов в общежитиях оборудованы теннисные и тренажерные залы,
-       учебные комнаты, прачечные самообслуживания, обеспечен высокоскоростной доступ к сети Интернет и
-       цифровому телевидению. В общежитиях есть зоны бесплатного Wi-Fi интернета. На территории Студенческого
-       городка оборудованы спортивные площадки, работают спортивные секции, студенческий клуб. Ежегодно
-       проводятся турниры по минифутболу, волейболу, баскетболу, настольному теннису, шахматам и другие
-       спортивные мероприятия, в которых принимают участие до 20 команд от общежитий. <br/><br/>
+ 	For a comfortable,  interesting and full life of students there are sport halls, studying roms, self-service laundry, high-speed Internet access and
+digital television in the dormitories. They also provide free Wi-Fi Internet zones. On the campus territory, there are sports fields, sports clubs, and a student club. Mini-football, volleyball, basketball, table tennis, chess, and other sports events are held annually, in which participate up to 20 teams from the dormitories.<br/><br/>
 
-       Иногородним абитуриентам, подавшим документы в СПбПУ в летний период Приемной кампании, на время
-       проведения вступительных испытаний и конкурса предоставляется общежитие (без сопровождающих лиц) по
-       направлению из приёмной комиссии. Информацию по поселению абитуриентов можно получить по
-       тел.+7(812)248-92-09, E-mail:tmstepanova@spbstu.ru. <br/><br/>
+       During the entrance examinations and the competition, A dormitory is provided (without accompanying persons) by the direction of the admissions office for nonresident applicants who submitted documents to SPbPU for the summer period of the Admissions Campaign. Information on the settlement of applicants can be obtained by phone +7(812)248-92-09, tmstepanova@spbstu.ru. <br/><br/>
 
-      Для поселения в общежитие абитуриентам необходимо:<br/>
+      For accommodation in the dormitory applicants need to:<br/>
 
-      - получить направление приемной комиссии; <br/>
-      - иметь при себе документ, удостоверяющий личность; <br/>
-      - иметь медицинскую справку форма 086у (с обязательной отметкой о флюорографическом обследовании или
-        отдельную справку о флюорографическом обследовании);<br/>
-      - абитуриентам, не достигшим возраста 18 лет и прибывшим без сопровождения родителей или иных законных
-        представителей на срок более трёх суток, необходимо иметь нотариально заверенное согласие родителей
-       (одного из родителей) или иных законных представителей на действия, связанные с поселением и
-        регистрацией. В документе должен быть указан вид действия, на которое даётся согласие: «Я, (Ф.И.О.),
-        даю разрешение на регистрацию по месту пребывания и проживания моего несовершеннолетнего сына
-       (дочери) (паспортные данные и данные свидетельства о рождении) в общежитии
-       ФГАО ВО «Санкт – Петербургский политехнический университет Петра Великого» на период прохождения
-       вступительных испытаний или на период обучения в вышеуказанном университете».<br/><br/>
+      - obtain referral from the admission office; <br/>
+      - have an identity document; <br/>
+      - have medical certificate (086 form)( with mandatory mark on fluorography examination or a separate certificate on fluorography examination);<br/>
+      - applicants under the age of 18 and arriving unaccompanied by parents or other legal representatives for a period of more than three days must have the notarized consent of the parents (one of the parents) or other legal representatives for actions related to the settlement and registration. The document must indicate the type of action for which consent is given: «Я, (Ф.И.О.), даю разрешение на регистрацию по месту пребывания и проживания моего несовершеннолетнего сына(дочери) (паспортные данные и данные свидетельства о рождении) в общежитии ФГАО ВО «Санкт – Петербургский политехнический университет Петра Великого» на период прохождения вступительных испытаний или на период обучения в вышеуказанном университете».<br/><br/>
 
-       Абитуриенты, приехавшие в СПбПУ в нерабочее время, для временного поселения могут обращаться в
-       общежитие № 8 по адресу: ул.Хлопина д.9, корп.2, станция метро «Площадь Мужества», тел.+7(812)297-43-50.<br/><br/>
+       Applicants who have arrived at SPbPU during off-hours can contact dormitory number 8 for temporary accommodation (block 2, 9, Khlopin Street, Ploshchad Muzhestva metro station, +7(812)297-43-50).<br/><br/>
 
-       Для деловых партнеров СПбПУ, а также для родителей студентов и абитуриентов предусмотрена возможность
-       проживания в номерах повышенной комфортности Студенческого городка. По вопросам бронирования мест и
-       поселения обращайтесь в администрацию комплекса дополнительного обслуживания по адресу:
-       Гражданский проспект, д.28, тел.+7(812)534-13-68, E-mail:hotel@spbstu.ru. <br/><br/>
+       For business partners of SPbPU, as well as for parents of students and applicants, it is possible to stay in the superior rooms of the campus. For booking and accommodation please contact the administration of the complex of additional services at 29, Grazhdansky Avenue 7(812)534-13-68, hotel@spbstu.ru. <br/><br/>
 
-       Зачисленным иногородним студентам очной формы обучения на основании статьи 39 главы 4 Федерального
-       закона «Об образовании в Российской Федерации» № 273-ФЗ от 29 декабря 2012 года предоставляется
-       места для проживания в общежитиях при наличии соответствующего жилищного фонда, исходя из количества
-       имеющихся свободных мест. <br/><br/>
+ 	Enrolled nonresident full-time students on the basis of Article 39 of Chapter 4 of the Federal Law “On Education in the Russian Federation” No. 273-FL of December 29, 2012 are provided with places to stay in dormitories provided that there are available rooms. <br/><br/>
 
-       Телефон для справок:+7(812)248-92-09, E-mail:uprstg@spbstu.ru.<br/>
+       For further information please contact:+7(812)248-92-09, uprstg@spbstu.ru.<br/>
  ]]>
  </string>
     <string name="social_relax" formatted="false"><![CDATA[
-    <br/>Политехнический университет - не только учебно-научный, но и крупный социальный комплекс.
-    На всех этапах развития института  обеспечение быта и отдыха политехников были существенной
-    частью деятельности его руководства. Большую роль в этой работе играли всегда и усилия общественных
-    организаций института, самодеятельность преподавателей и студентов. В настоящее время университет
-    располагает базами отдыха на Карельском перешейке и на Черном море. <br/><br/>
+    <br/> Polytechnic University is not only educational and scientific, but also a large social complex.
+    At all stages of the development of the institute, the maintenance and living of polytechnics was an essential part of its leadership`s performance. A large role in this work has always been played by public organizations of the institute. Currently, the University has recreation facilities on the Karelian Isthmus and on the Black Sea.<br/><br/>
 
-    СЕВЕРНЫЙ ЛАГЕРЬ<br/><br/>
-    Северный лагерь, организованный 50 лет назад как база проведения летнего тренировочного сбора ведущих
-    спортсменов политехнического института, в настоящее время является излюбленным местом отдыха его
-    сотрудников и студентов. За эти годы лагерь дважды поменял место своей дислокации, но с 1957 он
-    находится на юго-западной окраине поселка Горы на высоком берегу реки Вуоксы (Приозерский район).<br/><br/>
+    <u>NORTH CAMP</u><br/><br/>
+    The North Camp, founded 50 years ago as a recreation center for the summer training camp of the leading athletes of the Polytechnic University, is currently a favorite vacation spot for its staff and students. Over the years, the camp has changed its location twice, but since 1957 it has been located on the high bank of the Vuoksa River on the southwestern outskirts of the village of Gory (Priozersky District). <br/><br/>
 
-    Становление лагеря и превращение его в любимую базу отдыха оказалось возможным благодаря усилиям
-    руководителей и преподавателей спортивной кафедры института, его администрации (проректор ЛПИ по
-    администратино-хозяйственной работе Б.П. Бельтихин был главной «движущей силой» строительства лагеря),
-    неисчерпаемой энергии нынешних ветеранов-политехников, вниманию профсоюзных организаций сотрудников и студентов.
-    Лучше всего о роли Северного лагеря в жизни политехников могут рассказать стихи, песни и проза,
-    посвященные ему. Их авторы не являются профессиональными литераторами, но вся обстановка лагеря,
-    его природа помогли зафиксировать в поэтическом слове его неповторимую атмосферу. Отдал должное
-    Северному лагерю и профессиональный литератор, член Союза писателей России, в прошлом -
-    выпускник ФРЭ (факультет радиоэлектроники) и научный сотрудник кафедры физики полупроводников,
-    Александр Житинский. Рассказ этот был им написан в Северном лагере и впервые там же прочитан
-    автором на вечере отдыха. <br/><br/>
+    The formation of the camp and its transformation into a favorite recreation center was possible due to the efforts of leaders and professors of the sports department of the institute, its administration (B.Beltikhin, vice-rector for administrative and economic work, was the main “driving force” of the camp’s construction), trade union organizations, and students.
+    One can learn better about the role of the North Camp in the life of polytechnic students through poems, songs and prose, dedicated to it. Their authors are not professional writers, but the overall view of the camp, its nature, helped in saving its unique atmosphere in the poetic word. A professional writer, a member of the Writers' Union of Russia, a graduate of the FRE (faculty of radio electronics) and a researcher at the department of semiconductor physics, Alexander Zhitinsky, is also connected to the North Camp. The wrote there a story, that was first read by him right in the camp.<br/><br/>
 
-    ЮЖНЫЙ ЛАГЕРЬ<br/><br/>
-    В 1959 году Политехническому институту была передана только что освободившаяся пограничная
-    застава в пос. Новомихайловском под Туапсе, на берегу прекрасной бухты. Спортсмены института стали
-    организовывать здесь палаточные спортивно-оздоровительные лагеря, которые в дальнейшем превратились
-    в знаменитый Южный лагерь. Каждый год здесь отдыхают более 500 студентов и преподавателей
-    политехнического университета.<br/><br/>
+    <u>SOUTH CAMP</u><br/><br/>
+    In 1959, the newly liberated frontier post in Novomikhailovsky  settlement near Tuapse,  that is located on the shore of a beautiful bay,  was given to the Polytechnic University. Athletes of the university began to organize sports campings here, which later turned into the famous South Camp. Annually more than 500 students and professors of the Polytechnic University come there.<br/><br/>
 
-    Распределением путевок в лагеря отдыха занимаются:<br/><br/>
+    Responsible for the distribution of vouchers to the camps:<br/><br/>
 
-     профсоюзный комитет сотрудников<br/>
+     trade union committee of employees<br/>
      +7(812)247-2143<br/>
-     195251, Санкт-Петербург, Политехническая, 29, 1к., каб 339.<br/><br/>
+     195251, 339 room, 1 block, 29, Polyteknicheskaya str., St-Petersburg.<br/><br/>
 
-     профсоюзный комитет студентов<br/>
+     trade union committee of students<br/>
      +7 (812) 552-98-53<br/>
-     195251, Санкт-Петербург, Политехническая, 29, 1к., каб 349.<br/>
+     195251, 349 room, 1 block, 29, Polyteknicheskaya str., St-Petersburg.<br/>
      ]]>
     </string>
     <string name="social_medical" formatted="false"><![CDATA[
-    <br/>Поликлиника №76<br/><br/>
+    <br/><u>Clinic №76</u><br/><br/>
 
-    Поликлиника оказывает медицинскую помощь студентам, аспирантам и ординаторам высших учебных
-     заведений Калининского, Выборгского, Красногвардейского, Петроградского, Василеостровского
-     районов; учащимся средних специальных учебных заведений Калининского района.<br/><br/>
+    The clinic provides medical care to students, graduate students and residents of higher educational institutions in Kalinin, Vyborg, Krasnogvardeisky, Petrogradsky, Vasileostrovsky districts; students of secondary special educational institutions of the Kalininsky district.<br/><br/>
 
-     Оказываемые услуги:<br/>
-    - Доврачебная помощь: лечебное дело, лечебная физкультура, медицинский массаж, рентгенология,
-    сестринское дело, стоматология, физиотерапия, функциональная диагностика, организация сестринского
-    дела, сестринское дело в педиатрии.<br/>
-    - Амбулаторно-поликлиническая помощь, в том числе в условиях дневного стационара: акушерство и
-    гинекология, отоларингология, офтальмология, экспертиза профпригодности, рентгенология, терапия,
-    функциональная диагностика, физиотерапия, хирургия, эндокринология, стоматология, стоматология
-    терапевтическая, ультразвуковая диагностика, урология, организация здравоохранения, педиатрия,
-    в соответствии со стандартами и протоколами.<br/>
-    - Прочие работы и услуги: экспертиза временной нетрудоспособности, предварительные и периодические
-    медицинские осмотры, эпидемиология. В поликлинике есть молодёжная консультация, работает психолог.<br/>
-    - Так же Вы можете бесплатно пройти вакцинацию против дифтерии, столбняка, кори, краснухи, паротита, гепатита В.<br/><br/>
+     Services provided:<br/>
+    - Premedical care : medical business, phytotherapy, medical massage, radiology, therapy, dentistry, physiotherapy, functional diagnostics, organization of nursing care, nursing in pediatrics.<br/>
+    - Outpatient care, including in day care: obstetrics and gynecology, otolaryngology, ophthalmology, professional aptitude examination, radiology, therapy, functional diagnostics, physiotherapy, surgery, endocrinology, dentistry, therapeutic dentistry, ultrasound diagnostics, urology, health organization, pediatrics, according to the standards and protocols.<br/>
+    - Other services: examination of temporary incapacity for work, preliminary and periodic medical examinations, epidemiology. The clinic has a youth counseling, a  a psychologist is available..<br/>
+    - One can also get free vaccination against diphtheria, tetanus, measles, rubella, mumps, hepatitis B.<br/><br/>
 
-    Контакты:<br/>
+    Contacts:<br/>
     8(812)534-47-75<br/>
-    ул. Хлопина, дом 11, корпус 1<br/>
+    Block 1, 11, Khlopina str.<br/>
     www.p76om.ru<br/><br/>
 
-    Центр охраны репродуктивного здоровья<br/><br/>
+    <u> Center for Reproductive Health</u><br/><br/>
 
-    Целевая группа Центра – обучающиеся в возрасте  от 15 до 24 лет. Направления оказываемой помощи
-    по ОМС: консультативное, информационное,  диагностическое, лечебное, профилактическое, реабилитационное.<br/><br/>
+    The target group of the Center is students aged 15-24. Directions of assistance provided by the CHI: advisory, informational, diagnostic, therapeutic, preventive, rehabilitative.<br/><br/>
 
-    Функции Центра:<br/>
+    Center functions:<br/>
 
-    - Диагностическая и лечебная помощь врачей: гинеколога, уролога, эндокринолога, дерматолога, стоматолога, педиатра, терапевта.<br/>
-    - Психологическая консультативная помощь.<br/>
-    - Дневной стационар гинекологического направления.<br/>
-    - Групповые психологические тренинги.<br/>
-    - Подготовка студентов-волонтеров для дальнейшей работы в студенческой среде.<br/>
+    - Diagnostic and medical assistance of doctors: gynecologist, urologist, endocrinologist, dermatologist, dentist, pediatrician, therapist.<br/>
+    - Psychological counseling.<br/>
+    - Day gynecological hospital.<br/>
+    - Group psychological training.<br/>
+    - Training of volunteer students for further work in the student environment.<br/><br/>
 
-    Контакты:<br/>
+    Contacts:<br/>
     8(812)534-31-50<br/>
-    пр. Непокоренных, дом 8, корпус 2<br/>
+    Block 2, 8, Nepokorennykh avenue. <br/><br/>
 
-    Психологическая Служба<br/><br/>
+    <u> Psychological Service</u><br/><br/>
 
-    Главная цель Психологической службы заключается в создании условий для личностного роста каждого
-    человека, который пришел в наши стены. В течение всего года еженедельно волонтеры и психологи
-    проводят различные тренинги, направленные на самореализацию и раскрытие своего личностного
-    потенциала, развитие навыков необходимых в любой сфере жизни (как правильно вести себя в конфликте,
-    как выступать публично, как презентовать себя так, чтобы тебя заметили и т.д.). Также мы открыты
-    для предложений и готовы проводить те тренинги, которые интересны вам.<br/><br/>
+    The main goal of the Psychological Service is to create conditions for the personal growth of each person who came to us. Throughout the year, volunteers and psychologists conduct weekly various training aimed at self-realization and the disclosure of their personal potential, development of skills that are necessary for any area  (how to behave in a conflict, how to speak on the public, how to introduce yourself so that you are noticed, etc.).  We are also open to any suggestions and ready to conduct that training that interest you.<br/><br/>
 
-    Кроме тренингов в Службе есть услуги индивидуального приема психолога для студентов и сотрудников СПбПУ бесплатно.<br/><br/>
+    In addition to training, there is a free individual psychologist reception service for students and SPbPU staff.<br/><br/>
 
-    Запись на индивидуальные консультации по телефону:<br/>
-    +7(911)275-85-83 - Ольга Василенко (психолог Студенческого городка)<br/><br/>
+    Individual appointments:<br/>
+    +7(911)275-85-83 – Olga Vasilenko (camps psychologist)<br/><br/>
 
-    Контакты:<br/>
+    Contacts:<br/>
     studclub.stu@gmail.com<br/>
     8(812)295-27-20<br/>
-    ул. Парголовская, дом 11, корпус 2а<br/>
+    Block 2a, 11 Pargolovskaya str.
+    <br/>
     ]]>
     </string>
     <string name="social_grant" formatted="false"><![CDATA[
-    <br/>В соответствии со Статьей 36. «Стипендии и другие денежные выплаты»  Федерального закона от
-    29 декабря 2012 г. № 273-ФЗ «Об образовании в Российской Федерации» стипендией признается
-    денежная выплата, назначаемая обучающимся в целях стимулирования и (или) поддержки освоения
-    ими соответствующих образовательных программ. <br/><br/>
+    <br/> In accordance with Article 36. “Scholarships and other cash payments” of the Federal Law of December 29, 2012 No. 273-FL “The education act of the Russian Federation””, a scholarship is a cash payment assigned to students in order to stimulate and (or) support them in studying process of the curriculum.<br/><br/>
 
-    Виды стипендий:<br/>
-    - государственная академическая стипендия студентам;<br/>
-    - государственная социальная стипендия студентам;<br/>
-    - государственные стипендии аспирантам, ординаторам, ассистентам-стажерам;<br/>
-    - стипендии Президента Российской Федерации и стипендии Правительства Российской Федерации;<br/>
-    - именные стипендии;<br/>
-    - стипендии обучающимся, назначаемые юридическими лицами или физическими лицами, в том числе направившими их на обучение;<br/>
-    - стипендии слушателям подготовительных отделений в случаях, предусмотренных настоящим Федеральным законом.<br/><br/>
+    Types of scholarships: <br/>
+    - state academic scholarship for students;<br/>
+    - state social scholarship for students;<br/>
+    - state scholarships for graduate students, residents, assistant trainees;<br/>
+    - scholarships of the President of the Russian Federation and scholarships of the Government of the Russian Federation;<br/>
+    - personal scholarships;<br/>
+    - students scholarships  appointed by legal entities or individuals, including those who sent them for studying;<br/>
+    - scholarships for students of preparatory departments in cases stipulated by this Federal Law.<br/><br/>
 
-    Размеры государственных стипендий устанавливаются в соответствии с приказами по университету.<br/><br/>
+    The sizes of state scholarships are established in accordance with the orders of the university.<br/><br/>
 
-    Государственная академическая стипендия студентам<br/><br/>
+    <u> State academic scholarship for students </u><br/><br/>
 
-    Размер базовой государственной академической стипендии составляет 2200 рублей
-    (для студентов колледжа – 800 рублей). Данная стипендия назначается по итогам экзаменационной
-    сессии студентам, имеющим оценки «хорошо» или «отлично». При этом в период с начала учебного
-    года до прохождения первой промежуточной аттестации базовая стипендия выплачиваются всем
-    студентам первого курса.<br/><br/>
+    The size of the basic state academic scholarship is 2,200 rubles (for college students - 800 rubles). This scholarship is awarded on the basis of the results of the examinations in the end of the term to students who have “good” or “excellent” marks. At the same time, from the beginning of the first school year to the first intermediate certification, the basic scholarship is paid to all freshmen. <br/><br/>
 
-    Студентам, обучающимся только на «отлично», назначается государственная академическая стипендия
-    отличника в размере 4400 рублей (для студентов колледжа – 1600 рублей). Студенты, имеющие только
-    отличные оценки по итогам трех предшествующих сессий, могут претендовать на государственную
-    академическую стипендию, назначаемую решением Ученого совета Университета (установлено 100
-    таких стипендий), составляющую 6600 рублей (для студентов колледжа – 2400 рублей).<br/><br/>
+    Students who have only excellent marks are assigned a state academic scholarship for an excellent student which is 4,400 rubles (1,600 rubles for college students). Students who have been having only excellent marks for the last three terms can apply for a state academic scholarship appointed by a decision of the University Academic Council (100 such scholarships have been established), which is 6,600 rubles (2,400 rubles for college students). <br/><br/>
 
-    Специальные стипендии студентам 1 курса колледжа в размере 2000 рублей назначаются до прохождения
-    первой промежуточной аттестации взамен базовой государственной академической стипендии студентам
-    1 курса, обучающимся по программам среднего профессионального образования (СПО), очной бюджетной
-    формы обучения, поступившим в Университет на основании аттестата об основном общем образовании
-    с отличием (средний балл по аттестату – 5,0).<br/><br/>
+    Special scholarships for 1st year college students in the amount of 2,000 rubles are assigned before passing the first intermediate certification instead of the basic state academic scholarship for 1st year students enrolled in secondary vocational education programs full-time budgetary form of education, who entered the University on the basis of an excellent certificate of basic general education (average mark of the certificate - 5.0). <br/><br/>
 
-    Повышенная государственная академическая стипендия за достижения в учебной, научно-исследовательской,
-    общественной, культурно-творческой и спортивной деятельности <br/><br/>
+    <u> Merit state academic scholarship for achievements in educational, research, public, cultural, creative and sports activities. </u><br/><br/>
 
-    Данная стипендия назначается студентам, обучающимся по образовательным программам высшего
-    образования, имеющим особые достижения в учебной, научно-исследовательской, общественной,
-    культурно-творческой или спортивной деятельности и выплачивается в размере 10000 рублей в
-    дополнение к иным видам назначенных стипендий.<br/><br/>
+    This scholarship is assigned to students enrolled in educational programs of higher education with special achievements in educational, research, public, cultural, creative or sports activities and is paid in the amount of 10,000 rubles in addition to other types of scholarships awarded.<br/><br/>
 
-    Государственная социальная стипендия <br/><br/>
+    <u>State social scholarship</u><br/><br/>
 
-    В соответствии с частью 5 статьи 36 Федерального закона от 29 декабря 2012 года №273-ФЗ
-    «Об образовании в Российской Федерации» государственная социальная стипендия назначается:<br/>
-    - студентам, являющимся: детьми-сиротами и детьми, оставшимися без попечения родителей,
-    лицами из числа детей-сирот и детей, оставшихся без попечения родителей,
-    лицами, потерявшими в период обучения обоих родителей или единственного родителя,
-    детьми-инвалидами, инвалидами I и II групп, инвалидами с детства,<br/>
-    - студентам, подвергшимся воздействию радиации вследствие катастрофы на Чернобыльской АЭС и
-    иных радиационных катастроф, вследствие ядерных испытаний на Семипалатинском полигоне,<br/>
-    - студентам, являющимся инвалидами вследствие военной травмы или заболевания, полученных в период
-     прохождения военной службы, и ветеранами боевых действий,<br/>
-    - студентам из числа граждан, проходивших в течение не менее трех лет военную службу по контракту
-    в Вооруженных Силах Российской Федерации, во внутренних войсках Министерства внутренних дел
-    Российской Федерации и федеральных государственных органах, в войсках национальной гвардии
-    Российской Федерации, в инженерно-технических, дорожно-строительных воинских формированиях
-    при федеральных органах исполнительной власти и в спасательных воинских формированиях федерального
-    органа исполнительной власти, уполномоченного на решение задач в области гражданской обороны,
-    Службе внешней разведки Российской Федерации, органах федеральной службы безопасности, органах
-    государственной охраны и федеральном органе обеспечения мобилизационной подготовки органов
-    государственной власти Российской Федерации на воинских должностях, подлежащих замещению солдатами,
-    матросами, сержантами, старшинами, и уволенных с военной службы по основаниям, предусмотренным
-    подпунктами "б" - "г" пункта 1, подпунктом "а" пункта 2 и подпунктами "а" - "в" пункта 3 статьи
-    51 Федерального закона от 28 марта 1998 года N 53-ФЗ "О воинской обязанности и военной службе".<br/><br/>
+    In accordance with Part 5 of Article 36 of the Federal Law of December 29, 2012 No. 273-FL “The education act of the Russian Federation”, the state social scholarship is appointed to: <br/>
+    - students who are: orphans or children left without parental care,  people who have lost both parents or a single parent during the studying period, disabled children, disabled people of groups I and II, people disabled since childhood,<br/>
+    - students exposed to radiation as a result of the catastrophe at the Chernobyl nuclear power plant and other radiation disasters as a result of nuclear testing at the Semipalatinsk testing ground,<br/>
+    - students who are disabled as a result of military injury or disease, received during military service, and combat veterans,<br/>
+    - students from among citizens who have been serving under contract for at least three years in the Armed Forces of the Russian Federation, in the internal troops of the Ministry of Internal Affairs of the Russian Federation and federal state bodies, in the troops of the National Guard of the Russian Federation, in engineering, road-building military units at federal executive bodies and in rescue military units of the federal executive body authorized to perform tasks in civil defense, foreign intelligence service of the Russian Federation, federal security service agencies, state security agencies and the federal body for mobilization training of state authorities of the Russian Federation in military posts subject to replacement by soldiers, sailors, sergeants, foremen, and dismissed from military service on the grounds provided by subparagraphs "b" - "g" of paragraph 1, subparagraph "a" of paragraph 2 and subparagraphs "a" - "c" of paragraph 3 of Article 51 of the Federal Law of March 28, 1998 N 53-FL "the Conscription and Military Service Act", <br/><br/>
 
-    Государственная социальная стипендия назначается также студентам, получившим государственную социальную помощь.<br/><br/>
+    State social scholarship is also assigned to students who have received state social assistance.<br/><br/>
 
-    Размер государственной социальной стипендии равен полуторакратному размеру базовой стипендии и
-    составляет 3300 рублей (для студентов колледжа – 1200 рублей).<br/><br/>
+    The size of the state social scholarship is equal to one and a half times the size of the basic scholarship and amounts to 3,300 rubles (1,200 rubles for college students). <br/><br/>
 
-    Государственная социальная стипендия назначается студентам на основании заявления и справки,
-    выдаваемой органом социальной защиты населения по месту жительства (постоянной регистрации),
-    подтверждающей назначение государственной социальной помощи, или иного документа, подтверждающего
-    принадлежность к одной из категорий граждан, указанных в части 5 статьи 36 Закона об образовании.<br/><br/>
+    State social scholarship is assigned to students on the basis of an application and a certificate issued by the social welfare body at the place of residence (permanent registration) confirming the purpose of state social assistance or another document confirming that they belong to one of the categories of citizens specified in paragraph 5 of Article 36 of the Law on education.<br/><br/>
 
-    Студенты, получающие государственную социальную стипендию, имеют право на получение государственной
-    академической стипендии на общих основаниях.<br/><br/>
+    Students who receive a state social scholarship are entitled to receive state academic scholarships on a general basis.<br/><br/>
 
-    Студентам первого и второго курсов бакалавриата и специалитета, имеющим оценки успеваемости
-    «отлично» или «хорошо» и относящимся к категориям лиц, имеющих право на получение государственной
-    социальной стипендии, назначается государственная социальная стипендия в повышенном размере.
-    (в настоящее время – 10000 рублей).<br/><br/>
+    First and second-year undergraduate students who have excellent or good grades and who belong to the categories of persons entitled to receive state social scholarships are assigned an increased state social scholarship.
+    (which is currently amounts to 10000 rubles).<br/><br/>
 
-    Именные и специальные стипендии<br/><br/>
+    <u>Personal and special scholarships</u><br/><br/>
 
-    Стипендии Президента Российской Федерации и специальные стипендии Правительства Российской Федерации
-    назначаются студентам, достигшим выдающихся успехов в учебной и научной деятельности, в соответствии
-    с положениями, утвержденными Президентом Российской Федерации и Правительством Российской Федерации.<br/><br/>
+    Scholarships of the President of the Russian Federation and special scholarships of the Government of the Russian Federation are appointed to students who have achieved outstanding success in educational and scientific activities, in accordance with the regulations approved by the President of the Russian Federation and the Government of the Russian Federation.<br/><br/>
 
-    Стипендии, назначаемые органами государственной власти, органами местного самоуправления, юридическими
-    и физическими лицами, например, стипендия Правительства Санкт-Петербурга, стипендия Фонда Потанина,
-    стипендия Ученого Совета СПбПУ, назначаются в соответствии с их Регламентами.<br/><br/>
+    Scholarships appointed by state authorities, local governments, legal entities and individuals, for example, a scholarship of the Government of St. Petersburg, a scholarship of the Potanin Foundation, a scholarship of the Academic Council of SPbPU, are appointed in accordance with their Regulations.<br/><br/>
 
-    Студенты могут претендовать на различные именные стипендии, учреждаемые органами государственной власти,
-    органами местного самоуправления, юридическими и физическими лицами, в том числе, стипендии Президента
-    Российской Федерации и специальные стипендии Правительства Российской Федерации, именные стипендии
-    Правительства Санкт-Петербурга, стипендии Благотворительного фонда Владимира Потанина, стипендии
-    ОАО «КАМАЗ», банков ВТБ и Альфа-банка и другие. Порядок назначения и выплаты именных стипендий
-    для студентов, а также количество и размеры этих стипендий определяется учредителями этих стипендии.<br/>
+    Students can apply for various scholarships established by state authorities, local governments, legal entities and individuals, including scholarships of the President of the Russian Federation and special scholarships of the Government of the Russian Federation, personal scholarships of the government of Saint-Petersburg, scholarships of the Vladimir Potanin Foundation, scholarships of KAMAZ OJSC, VTB bank, Alfa-Bank and others. The procedure for the appointment and payment of scholarships
+for students, as well as the number and size of these scholarships is determined by the founders of these scholarships.<br/>
     ]]>
     </string>
     <string name="social_army" formatted="false"><![CDATA[
-<br/>Отсрочка от призыва на военную службу гражданам, получающим образование среднего профессионального и
- высшего образования, предоставляется призывной комиссией муниципального образования на основании
- подпункта 2 статьи 24 Федерального закона «О воинской обязанности и военной службе».<br/><br/>
+<br/> The postponement of the recruitment into the military for citizens who receive secondary vocational education and higher education is granted by the recruitment committee of the municipality on the basis of subparagraph 2 of article 24 of the Federal Law “On Military Duty and Military Service”.br/><br/>
 
-Следует уяснить:<br/>
+Important to indicate:<br/>
 
-а) право на отсрочку от призыва на военную службу имеют граждане, обучающиеся по очной форме обучения;<br/>
-б) учеба студента по очной форме обучения, не является отсрочкой от призыва на военную службу;<br/>
-в) отсрочку предоставляет призывная комиссия муниципального образования на основании справки формы приложения № 2, подтверждающую учёбу гражданина в вузе;<br/>
-г) отсрочка гражданину, студенту предоставляется только один раз (разъяснение далее по тексту).<br/><br/>
+а) the right to postpone military recruitment is given to full-time students;<br/>
+б) full-time student’s study is not a deferment of military service;<br/>
+в) The postponement is granted by the military  recruitment committee  of the municipality on the basis of the certificate of the application form No. 2, confirming the citizen’s studies at the university;<br/>
+г) postponement to the citizen (student) is given only once (explanation further in the text).<br/><br/>
 
-Для справки: отсрочка от призыва на военную службу-это временное освобождение гражданина от призыва.
-Рассмотрение вопроса о призыве гражданина на военную службу принимается призывной комиссией до исчезновения
-оснований на отсрочку. (статья 59 ФЗО ВОНВС).<br/><br/>
+For reference: deferment from military service is a temporary release of a citizen from the recruitment into the military.
+Consideration of the question of the conscription of a citizen for military service shall be adopted by the recruitment committee until the reasons for deferment disappear.  <br/><br/>
 
-Отсрочка от призыва на военную службу по основаниям подпункта «а» пункта 2 статьи 24 Федерального
-закона «О воинской обязанности и военной службе» является срочной и прекращается с момента исчезновения её оснований.<br/><br/>
+The postponement of military service on the grounds of subparagraph "a" of paragraph 2 of Article 24 of the Federal Law "On Military Duty and Military Service" terminates from the moment of disappearance of its grounds.<br/><br/>
 
-Отсрочка предоставляется только гражданам «подлежащим призыву на военную службу»<br/><br/>
+Deferral is granted only to citizens "to be called up for military service.”<br/><br/>
 
-Государственная Дума Федеральным законом № 185 от 02 июля 2013 года внесла изменения в подпункт «а»
-пункта 2 статьи 24 Федерального закона «О воинской обязанности и военной службе», изложила его в новой
-редакции, и законодательно установила порядок отсчета абзацев подпункта «а».<br/><br/>
+The State Duma, by Federal Law No. 185 of July 2, 2013, amended subparagraph “a” of paragraph 2 of Article 24 of the Federal Law “On conscription and military service”, outlined it in a new wording, and legally established the procedure for reading paragraphs of subparagraph “a”.br/><br/>
 
-Закон подпунктом «а» пункта 2 статьи 24 определил - «абзацем первым».<br/><br/>
+The law specified in subsection “a” of clause 2 of Article 24 - “the first paragraph”. <br/><br/>
 
-На основании подпункта «а» пункта 2 статьи 24 «О воинской обязанности и военной службе» отсрочка
-предоставляется гражданам только один раз.<br/><br/>
+On the basis of sub-clause “a” of clause 2 of Article 24 “On military duty and military service”, a deferment is granted to citizens only once.<br/><br/>
 
-Федеральный закон «Об образовании в Российской Федерации» определяет образование, как целенаправленный
-процесс воспитания и обучения в интересах человека, общества, государства, сопровождающийся констатацией
-достижения гражданином (обучающегося) установленных государством образовательных уровней.<br/><br/>
+The Federal Law “The education act of Russian Federation” defines education as a purposeful process of education and training in the interests of a person, society, state, accompanied by a statement of the achievement of educational levels set by the state. <br/><br/>
 
-Для сведения:<br/><br/>
+For the record:<br/><br/>
 
-Содержание образования установленного уровня и направленности определяется образовательной программой.<br/><br/>
+The educational content of the established level and thrust is determined by the educational program. <br/><br/>
 
-Федеральный закон «Об образовании в Российской Федерации» устанавливает следующие уровни профессионального образования (пункта 5 статьи 10):<br/>
+The Federal Law “The education act of Russian Federation” establishes the following vocational education levels (clause 5 of Article 10): br/>
 
-- среднее профессиональное образование;<br/>
-- высшее образование-бакалавриат;<br/>
-- высшее образование-специалитет;<br/>
-- высшее образование-магистратура;<br/>
-- высшее образование-подготовка кадров высшей квалификации.<br/><br/>
+- secondary vocational education;<br/>
+- undergraduate education (bachelor);<br/>
+- undergraduate education (specialty);<br/>
+- master;<br/>
+- training of highly qualified specialists.<br/><br/>
 
-Право на отсрочку от призыва на военную службу в связи с получением образования устанавливается
-подпунктами «а» и «б» пункта 2 статьи 24 Федерального закона «О воинской обязанности и военной службе»<br/><br/>
+The right to deferment for military service in connection with education is established by subparagraphs "a" and "b" of paragraph 2 of Article 24 of the Federal Law "On Military Duty and Military Service" <br/><br/>
 
-Конкретно, гражданин-студент имеет право на отсрочку от призыва на военную службу, обучающийся по
-очной форме обучения в образовательных организациях имеющих государственную аккредитацию по соответствующим
-направлениям подготовки(специальностям):<br/>
+Specifically, a citizen-student, enrolled in full-time education in educational institutions having state accreditation in the relevant fields of studying, has the right to deferment for military service if he: <br/>
 
-1. Получающий среднее общее образование (то есть 11 классов) - на время обучения.<br/>
-2. Получающий среднее профессиональное образование колледж (техникум); - не получившие до поступления
-в колледж(техникум) среднего общего образования (9 классов) до 20 лет.<br/>
-3. Получившие до поступления в образовательную организацию (колледж, техникум) 11 классов, должны
-окончить техникум, колледж- в году достижения 18 лет (призывного возраста).<br/>
-4. Получающий высшее образование по программе бакалавриата и не имеет диплом бакалавра, специалиста
-или диплом магистра - в период освоения указанных образовательных программ, но не выше установленных
-федеральными государственными образовательными стандартами сроков получения высшего образования по программам бакалавриата.<br/>
-5. Получающий высшее образование по программам специалитета и не имеет диплом бакалавра, диплом специалиста
-или диплом магистра, - в период освоения указанных образовательных программ, но не свыше установленных
-федеральными государственными образовательными стандартами, образовательными стандартами сроков получения
-высшего образования по программам специалитета.<br/>
-6. Получающий высшее образования по программам магистратуры, и не имеет диплом специалиста или диплом
-магистра и поступил на обучение по программам магистратуры в год получения высшего образования по
-программам бакалавриата, - в период освоения указанных образовательных программ, но не свыше
-установленных федеральными государственными образовательными стандартами сроков получения высшего
-образования по программам магистратуры.<br/><br/>
+1. Is receiving secondary education (that is, 11 classes) - for the duration of study. <br/>
+2. Is getting secondary vocational education in college (technical school); - not received before entering the college (technical school) secondary education (9 classes). <br/>
+3. Received before entering the educational organization (college, technical school) basic secondary education, are supposed to graduate from the technical school, college - in the year of attaining 18 years of age (military recruitment age). <br/>
+4. is undergraduate and does not have a bachelor’s degree, specialist degree or master’s degree — during the duration of these educational programs, but no longer than the deadlines for higher education under bachelor’s programs established by federal state educational standards. <br/>
+5. Is getting a higher education in a specialty program and does not have a bachelor's degree, a specialist degree or a master's degree - during the period of mastering these educational programs, but not more than the established by the federal state educational standards deadlines. <br/>
+6. he receives a higher education in a master’s program, and does not have a specialist degree or a master’s degree and has enrolled in a master’s degree program in the year of his undergraduate education in undergraduate programs — during the period of mastering these educational programs, but not more than established by the federal state educational standards deadlines for higher education in graduate programs.<br/><br/>
 
-Как было сказано выше: предусмотренная отсрочка от призыва на военную службу предоставляется
-гражданину только один раз, за исключением одного из случаем, если:<br/>
+As mentioned above: the provided deferment from the military recruiting is granted to a citizen only once, except in one of the cases:<br/>
 
-- первая отсрочка от призыва на военную службу была предоставлена гражданину в соответствии с
-абзацем 2 (обучающиеся по программам среднего общего образования-в период освоения указанных
-программ, но не свыше сроков получения среднего общего образования, установленных федеральными
-государственными образовательными стандартами). Гражданин имеет право на получение повторно отсрочки
-от призыва на военную службу в соответствии с абзацем 5 (обучающихся в федеральных образовательных
-государственных образовательных организациях высшего образования, перечень которых установлен в
-соответствии с частью 8 статьи 71 Федерального закона от 21 декабря 2012 года №273-ФЭ «Об образовании
-в Российской Федерации» - на период обучения на подготовительных отделениях этих образовательных
-организаций за счёт бюджетных ассигнований федерального бюджета, но не свыше одного года, и в случае
-принятия указанных обучающихся на обучение на подготовительные отделения этих образовательных организаций
-в год получения среднего общего образования);<br/>
+- The first postponement of military recruiting was granted to a citizen in accordance with paragraph 2 (students of secondary general education programs, during the period of mastering these programs, but not longer than the periods of general secondary education established by federal
+state educational standards). A citizen has the right to receive another deferment from military service in accordance with paragraph 5 (enrolled in federal educational state educational institutions of higher education, the list of which is established in accordance with paragraph 8 of article 71 of the Federal Law of December 21, 2012 No. 273-FL " The education act of Russian Federation ”- for the period of study at the preparatory departments of these educational organizations at the expense of the federal budget allocations, but not more than one year, and in case of accepting these students to the preparatory departments of these educational organizations in the year of graduating from secondary school);<br/>
 
-- первая отсрочка от призыва на военную службы была предоставлена в соответствии с абзацем 2 и абзацем
-5 подпункта «а», гражданин повторно может воспользоваться правом на отсрочку от призыва на военную службу
-в соответствии с абзацем 7 (граждане обучающие по программам бакалавриата, если указанные обучающиеся
-не имеют диплом бакалавра, диплом специалиста или диплом магистра,-в период освоения указанных
-образовательных программ, но не свыше установленных федеральными государственными образовательными
-стандартами, образовательными стандартами сроков получения образования по программам бакалавриата).
-Государственная Дума Федеральным законом № 185 от 02 июля 2013 года внесла изменения в подпункт «а»
-пункта 2 статьи 24 Федерального закона «О воинской обязанности и военной службе», изложила его в новой
-редакции, и законодательно установила порядок отсчета абзацев подпункта «а». Закон подпунктом «а» пункта
-2 статьи 24 определил - «абзацем первым».<br/>
+-the first postponement of military service call was granted in accordance with paragraph 2 and paragraph 5 of subparagraph “a”; a citizen may re-use the right to postpone being recruited for military services in accordance with paragraph 7 (undergraduates, if they do not have a bachelor’s degree, specialist’s degree or master’s degree, during the mastering of the specified educational programs, but not more than those established by the federal state educational standards educational standards for education undergraduate programs).
+The State Duma, by Federal Law No. 185 of July 2, 2013, amended subparagraph “a” of paragraph 2 of Article 24 of the Federal Law “On conscription and military service”, outlined it in a new wording, and legally established the procedure for reading paragraphs of subparagraph “a”. The law specified in subsection “a” of clause 2 of Article 24 - “the first paragraph”. <br/>
 
-- первая отсрочка от призыва на военную службу была предоставлена в соответствии с абзацем 5
-(граждане обучающиеся в «Федеральных государственных организациях высшего образования, перечень которых
-установлен в соответствии с частью 8 статьи 71 Федерального закона от 29 декабря 2012 года №273-Федерального
- закона «Об образовании в Российской Федерации» на период обучения на подготовительных отделения этих
- образовательных организаций за счёт бюджетных ассигнований Федерального бюджета, но не свыше одного
-  года, и в случае принятия указанных обучающихся на обучение на подготовительные отделения этих
-  образовательных организаций в год получения среднего общего образования»), или абзацем 8
-  (граждане обучающиеся по программам специалитета и не имеют диплом бакалавра, диплом специалиста
-  или диплом магистра, - в период освоения указанных образовательных программ, но не свыше установленных
-  федеральными государственными стандартами, образовательными стандартами сроков получения высшего
-  образования по программам специалитета.<br/>
-- первая отсрочка от призыва на военную службу была предоставленна гражданину в соответствии с
-абзацем 7 (гражданин обучающий по программе бакалавриата если не имеет диплома бакалавра, диплом
-специалиста, диплом магистра, - в период освоения указанных образовательных программ, но не свыше
-установленных федеральными государственными образовательными стандартами, образовательными стандартами
-сроков получения высшего образования по программам бакалавриата) гражданин повторно может воспользоваться
-правом на отсрочку от призыва на военную службу в соответствии с абзацем 9 (обучающиеся по
-«программам магистратуры, если указанные обучающиеся не имеют диплома специалиста или диплома
-магистра и поступили на обучение по программам магистратуры в год получения высшего образования
-по программам бакалавриата,-в период освоения указанных образовательных программ, но не свыше
-установленных федеральными государственными стандартами, образовательными стандартами сроков
-получения высшего образования по программам магистратуры.<br/><br/>
+- The first postponement of military service was granted in accordance with paragraph 5 (citizens studying at the Federal State High Education Institutes, the list of which is established in accordance with paragraph 8 of Article 71 of the Federal Law of December 29, 2012 No. 273-Federal Law “The education act the Russian Federation "for the period of study at the preparatory departments of these institutes at the expense of the budget allocations of the Federal budget, but not more than one year who study at the preparatory departments of these institutes in the year of secondary school graduation”), or paragraph 8 (citizens enrolled in specialty programs and do not have a bachelor’s degree, specialist’s diploma or master’s degree, during the mastering of these educational programs, but not more than established by federal state standards, educational standards for the period of obtaining higher education programs of specialty.<br/>
+- The first postponement of military service was granted to a citizen in accordance with paragraph 7 (a citizen who studies under a bachelor’s program if he does not have a bachelor’s degree, specialist’s degree, or master’s degree) - during the period of mastering these educational programs, but not above established by federal state educational standards , educational standards for terms of higher education in undergraduate programs) citizens can re-use the right to postpone the call for military service in accordance with paragraph 9 (students of “graduate programs, if these students do not have a specialist degree or master’s degree and enrolled in graduate programs in the year of finishing undergraduate program, during the period of mastering these educational programs, but not more than established by the federal state standards, the deadlines for obtaining higher education in graduate programs. <br/><br/>
 
-Гражданину, поступившему на обучение по программам магистратуры, имея диплом специалиста отсрочка
-от призыва на военную службу законом не установленна.<br/><br/>
+A citizen enrolled in a Master's program, having a specialist diploma, is not granted deferment from military service.<br/><br/>
 
-Отсрочка предоставляется гражданам, обучающихся на очной форме обучения, на основании подпункта
-«б» пункта 2 статьи 24 закона, в образовательных организациях и научных организациях по имеющим
-государственную аккредитацию программам подготовки научно- педагогических кадров в аспирантуре,
-программам ординатуры или программам ассистентуры-стажеровки,-в период освоения указанных
-образовательных программ, но не свыше установленных федеральными государственными стандартами,
-сроков получения высшего образования - подготовка кадров высшей квалификации, и на время защиты
-квалификации ученной работы (диссертации), но не более одного года после завершения обучения по
-соответствующей образовательной программе высшего образования.<br/><br/>
+Отсрочка предоставляется гражданам, обучающихся на очной форме обучения, на основании подпункта «б» пункта 2 статьи 24 закона, в образовательных организациях и научных организациях по имеющим
+государственную аккредитацию программам подготовки научно- педагогических кадров в аспирантуре,программам ординатуры или программам ассистентуры-стажеровки,-в период освоения указанных образовательных программ, но не свыше установленных федеральными государственными стандартами, сроков получения высшего образования - подготовка кадров высшей квалификации, и на время защиты квалификации ученной работы (диссертации), но не более одного года после завершения обучения по соответствующей образовательной программе высшего образования.<br/><br/>
 
-Отсрочка предоставляется гражданам, успешно прошедшим государственную итоговую аттестацию по
-образовательной программе среднего общего образования, - на период до 1 октября года прохождения указанной аттестации.<br/><br/>
+The postponement is granted to citizens enrolled in full-time education, on the basis of subparagraph “b” of paragraph 2 of Article 24 of the law, in educational organizations and scientific organizations for state-accredited training programs for scientific and pedagogical personnel in postgraduate study, residency programs or internship programs, during the period of mastering these educational programs, but not exceeding the established by federal state standards, the time frame for obtaining higher education is the training of higher education personnel qualifications, and at the time of defending the qualifications of academic work (dissertation), but not more than one year after completion of training in the relevant educational program of higher education.<br/><br/>
 
-Следует обратить внимание!<br/><br/>
+Attention should be drown!<br/><br/>
 
-Право на отсрочку от призыва на военную службу имеют граждане получающие по очной форме обучения
-среднего профессионального образования или высшее образование по образовательным программам,
-направленным на подготовку служителей и религиозного персонала религиозных организаций в духовных
-образовательных организациях, имеющих лицензию на осуществление образовательной деятельности, -
-в период обучения, но свыше сроков получения соответствующего образования.<br/><br/>
+Citizens of full-time secondary vocational education or higher education in educational programs aimed at training  religious personnel of religious organizations in the spiritual educational organizations that have a license to carry out educational activities - during the period of study, but over the deadlines for obtaining the relevant education.<br/><br/>
 
-Право на отсрочку от призыва на военную службу.<br/><br/>
+Right to delay the military service.<br/><br/>
 
-На основании статьи 163 Федерального закона внесение изменений в отдельные законодательные акты
-Российской Федерации и признании утратившие силу законодательных актов Российской Федерации в связи
-с принятием закона «Об образовании в Российской Федерации» по вопросу призыва на военную службу граждан,
-обучающихся в интернатуре. «б1» к Федеральному закону «О Воинской обязанности и военной службе»
-(Федеральный закон от 2 июля 2013 года №185-ФЗ) «граждане, обучающиеся по основным профессиональным
- образовательным программам послевузовского медицинского образования и фармацевтического образования
- в интернатуре, имеют право на отсрочку от призыва на военную службу, предоставляемую на основании и
- в порядке, которые установлены Федеральным законом от 28 марта 1998 года №53 «О воинской обязанности
- и военной службе для граждан, обучающихся на очной форме обучения в образовательных организациях по
- имеющим государственную аккредитацию программ ординатуры». Постановление Правительства Российской
- Федерации от 18 ноября 2013 года «О государственной аккредитации образовательной деятельности».<br/><br/>
+On the basis of Article 163 of the Federal Law, amending certain legislative acts of the Russian Federation and recognizing the invalid laws of the Russian Federation in connection with the adoption of the law “The education act of Russian Federation” on the issue of conscription for citizens in internship. “B1” to the Federal Law “On Military Duty and Military Service” (Federal Law of July 2, 2013 No. 185-FL) “citizens enrolled in basic professional educational programs of postgraduate medical education and pharmaceutical education in internship are entitled to defer conscription, provided on the basis and in the manner established by the Federal Law of March 28, 1998 No. 53 "On Military Duty and Military Service for Citizens in Full-time Education in educational institutions that provide state-accredited programs. " Decree of the Government of the Russian Federation of November 18, 2013 “On State Accreditation of Educational Activities”. br/><br/>
 
- В соответствии с частью 28 статьи 22 Федерального закона «Об образовании в Российской Федерации»
- Правительство Российской Федерации постановляет:<br/>
+In accordance with Part 28 of Article 22 of the Federal Law “The education act of the Russian Federation”, the Government of the Russian Federation decides: <br/>
 
-5. «Установить, что основные профессиональные образовательные программы высшего образования
-(программы подготовки научно- педагогических кадров в аспирантуре (адъюнктуре), программы ординатуры,
-программы ассистентуры-стажеровки), по которым срок действия свидетельств истекает 1 сентября 2013 года,
- но не позднее вступления в силу федеральных государственных образовательных стандартов высшего
- образования в части подготовки кадров высшей квалификации, осуществляемой по результатам освоения
- указанных программ, а также по которым имеются обучающиеся завершающие обучение по таким программам
- в период с 1 сентября 2013 года до вступления в силу указанных федеральных государственных
- образовательных стандартов, считаются образовательными программами, имеющими государственную
- аккредитацию до 31 декабря 2015 года» (в редакции Постановление Правительства РФ от 26.12.2014
- года № 1537).<br/><br/>
+5. “Establish that the main professional educational programs of higher education (training programs for scientific and pedagogical personnel in postgraduate studies (adjunct), residency programs, assistant training programs) for which the certificate expires on September 1, 2013, but no later than terms of training highly qualified personnel according to the federal state educational standards of higher education  are considered state-accredited until 31 December 2015 "(as amended by Decree of the RF Government of 12.26.2014 number 1537). <br/><br/>
 
-Материал предоставлен Отделом подготовки и призыва граждан на военную службу военного комиссариата города Санкт-Петербурга<br/><br/>
+Information provided by the Department of training and recruitment of citizens for military service of the military commissariat of the city of St. Petersburg. <br/><br/>
 
 
-Подробную информацию о предоставлении  отсрочки от призыва на военную службу, а также по вопросам
-постановки и снятия с воинского учета студенты-очники могут получить в Отделе воинского учета и
-бронирования Управления мобилизационной подготовки СПбПУ<br/><br/>
+Detailed information on granting a deferment to military service, as well as on the issue and removal from military registration, full-time students can get in the Military Accounting and Booking Division of the Office of Mobilization Training of SPbPU. <br/><br/>
 
-Отдел воинского учета и бронирования Управления мобилизационной подготовки СПбПУ<br/>
+Department of Military Accounting and the Office of Mobilization Training SPbPU <br/>
 +7(812)552-97-43<br/>
-ул. Политехническая, д. 29, 1 к., каб. 143<br/>
+Room 143, block 1, 29, Polytekhnicheskaya str. <br/>
 ]]>
 </string>
+    <string name="title_trip"> Get public transport discounts. </string>
     <string name="social_trip" formatted="false"><![CDATA[
-<br/>Полная информация по вопросам приобретения студентами проездных билетов и оплаты проезда размещена
-на официальном сайте ГУП «Петербургский Метрополитен»: http://www.metro.spb.ru/ticket.html<br/><br/>
+<br/> Full information on the purchase of tickets and fares for students is available on the official website of the Petersburg Metropolitan State Unitary Enterprise: http://www.metro.spb.ru/ticket.html<br/><br/>
 
-Студентам 1-го курса, студентам, не имеющим или потерявшим БСК:<br/><br/>
+<u> For freshmen who do not have or have lost student contactless smart-card:</u><br/><br/>
 
-Все студенты, желающие пользоваться льготным проездом, до 01 декабря должны перейти на постоянные
-БСК с фотографиями. Заказать карту и оплатить изготовление карты (250 рублей) можно:<br/><br/>
+All students wishing to use the preferential fare should change to the permanent contactless smart-cards with photos until December 1. You can order a card and pay for making a card (250 rubles):<br/><br/>
 
-- в кассах станций метрополитена; срок изготовления 10 дней, выдача в кассе станции, на которой
-подана заявка (при подаче заявки необходима фотография на бумажном носителе размером 3*4 см);<br/>
-- на сайтах www.карта-онлайн.рф; срок изготовления 10 дней, выдача в кассе станции, указанной в
-заявке или отделе персонализации (при подаче заявки необходима фотография в электронном виде);<br/>
-- в отделе персонализации по адресу: пер.Чернорецкий, д.3 (ст. метро «Пл. Александра Невского-2»),
-срок изготовления карты в день обращения (фотография не требуется).<br/><br/>
+- at the box office of metro stations; production time is 10 days, issue in the box office where the application was submitted (when submitting the application, a photograph on paper in the size of 3 * 4 cm is needed ); <br/>
+- on the website www.map-line.org; Production time is 10 days, issue at the station’s box office specified in the application or the personalization department (an electronic photograph is required when submitting the application); <br/>
+- in the department of personalization at the address: 3, Chernoretsky side str.( “Ploschad Alexandra Nevskogo” metro station), Card production time is on the same day (photograph is not required).<br/><br/>
 
-Студентам 1-го курса (магистратура) и всем, кто поменял паспорта: <br/><br/>
+<u> First-year students (master) and everyone who changed passports:<u> <br/><br/>
 
-В связи с тем, что БСК оформлялась на старый паспорт, необходимо закрепить ее за новым паспортом.
-Для этого, перед тем, как пойти продлевать БСК, необходимо позвонить в отдел по работе с пассажирами
-по тел. 350-11-29 или тел. 610-06-94, часы работы ежедневно с 08.00 до 19.30.<br/><br/>
+Due to the fact that the contactless smart-card was issued on an old passport, it is necessary to issue it on the new passport. To do this, before you go to pay for the card, you need to call the passenger department by phone 350-11-29 or .610-06-94, working hours daily from 08.00 to 19.30.<br/><br/>
 
-По вопросам бесплатных проездных билетов (БПБ) студентам из числа граждан, имеющих льготу по категории "ДК"
-Студентам, уже имеющим на руках БПБ, в срок до 15 сентября необходимо обратиться в учебный отдел
-(комн. 333 I го учебного корпуса) для сверки и дополнения информации для продления БПБ.<br/><br/>
+<u> On issues of free travel tickets for students from among citizens who have a benefit in the category "Children receiving a pension for the loss of a breadwinner" </u><br/><br/>
 
-Первичное оформление БПБ и продление БПБ после 15 сентября происходит в индивидуальном порядке в
-офисе СПб ГКУ «Организатор перевозок», расположенном по адресу: ул. Рубинштейна, д.32А, часы
-работы: с 08:00 до 19:30 без обеда и выходных.<br/><br/>
+Students who already have a free transport card (FTC) in their hands before September 15 should contact the training department (room 333 I of the academic building) to verify and supplement the information for renewing the FTC. <br/><br/>
 
-С подробностями оформления бесплатных проездных документов студентам, имеющим право на бесплатный
-проезд,  можно ознакомиться на официальном сайте СПб ГКУ «Организатор перевозок».<br/><br/>
+The initial issuance of a FTC and its extension after September 15 takes place individually at the office of the Transport Organizer, St. Petersburg, located at the address: 32A Rubinstein str., opening hours: from 08:00 a.m. to 7:30 p.m. without breaks and days-off.<br/><br/>
 
-Льготной категории студентов («ДСф») из числа детей-сирот и детей, оставшихся без попечения
-родителей, для проезда на городском транспорте<br/><br/>
+The details of issuing free transport cards to students eligible for free travel can be found on the official website of the St. Petersburg "Organizer of Traffic." <br/><br/>
 
-В соответствии с пунктом 6 Постановления Правительства Российской Федерации от 02.09.2017
-№1066 СПб ГКУ «Организатор перевозок» с 01.10.2017 блокирует ранее выданные льготной категории
-студентов для проезда на городском транспорте бесплатные проездные билеты.<br/><br/>
+<u> For students entitled to benefits from among orphans and children left without parental care, for travel by public transport </u><br/><br/>
 
-Предусмотрено возмещение со стороны университета расходов льготной категории студентов,
-связанных с проездом на городском и пригородном транспорте (кроме такси), в пределах стоимости проезда.<br/><br/>
+In accordance with clause 6 of the Decree of the Government of the Russian Federation dated 02.09.2017 No. 1066 of the St. Petersburg  Organizer of Transportation, since 01.10.2017, it blocks previously issued to students entitled to benefits free tickets for public transport. <br/><br/>
 
-Выплата ежемесячной компенсации стоимости проезда в городском транспорте в размере 1035 рублей
-(на текущий момент) будет выплачиваться вместе с основными выплатами и стипендией.<br/><br/>
+The University provides reimbursement of expenses students entitled for benefits associated with travel with city and suburban public transport (except for taxis), within the cost of travel.<br/><br/>
 
-Для получения единовременного возмещения расходов, связанных с изготовлением проездного билета для
-проезда в городском транспорте (бесконтактной смарт-карты), в размере 250 рублей следует обратиться
-в профком студентов (комн. 349 первого учебного корпуса) с заявлением о выплате материальной помощи
-и квитанцией (чеком) об оплате изготовления проездного билета.<br/><br/>
+Payment of monthly compensation of the fare in urban transport in the amount of 1035 rubles (at the moment) will be paid along with the basic payments and scholarship. <br/><br/>
 
-Для возмещения стоимости проезда в пригородном транспорте следует обращаться к Филипповой Лилии
-Веняминовне (комн. 305 первого учебного корпуса), при себе необходимо иметь оригиналы проездных
-документов, подтверждающих расходы на проезд.<br/><br/>
+For a one-time reimbursement of costs associated with the production of a travel card for travel in public transport (contactless smart card) in the amount of 250 rubles, you should contact the trade union committee of students (room 349 of the first academic building) with a statement about the payment of material assistance and receipt (check) of payment for the production of a ticket. <br/><br/>
 
-Сохраняется возможность возмещения расходов на проезд один раз в год к месту жительства и обратно
-к месту учебы при предъявлении проездных документов (билетов) В ТЕЧЕНИЕ МЕСЯЦА, следующего за
-месяцем возвращения. В случае более позднего предоставления документов возмещение расходов
-производиться не будет. Для возмещения этих расходов также следует обращаться к Филипповой
-Лилии Веняминовне (комн. 305 первого учебного корпуса) с оригиналами проездных документов.
-Форма заявления на возмещение расходов, связанных с проездом к месту жительства и обратно к
-месту учебы, также прилагается.<br/><br/>
+For reimbursement of fare in suburban transport, you should contact Liliya Philippova (room 305 of the first academic building), you need to bring your original travel documents confirming the cost of travel.<br/><br/>
+It is still possible to reimburse travel expenses once a year to the place of residence and back to the place of study upon presentation of travel documents (tickets) DURING THE MONTH following the month of return. In case of a later submission of documents, reimbursement will not be made. For reimbursement of these costs should also contact Liliya Philippovna (room 305 of the first educational building) with the originals of travel documents. An application form for reimbursement of expenses related to travel to the place of residence and back to the place of study is also attached. <br/><br/>
 
-Формы заявлений доступны в электронном виде на сайте университета: «Студентам» - «Социальное
-обеспечение» - «Поддержка нуждающихся студентов».<br/><br/>
+Application forms are available in electronic form on the University website: “For students” - “Social security” - “Support for needy students”. <br/><br/>
 
-Подробнее данной льготной категории студентов («ДСф») с информацией о продлении ранее полученных
-бесплатных проездных документов на 2017/2018 учебный год можно ознакомиться на сайте  СПб ГКУ
-«Организатор перевозок».<br/><br/>
+More details of this preferential category of students with information on the extension of previously obtained free travel documents for the 2017/2018 academic year can be found on the website of St. Petersburg "Transportation Organizer." <br/><br/>
 
-О порядке приобретения проездных билетов студентами из числа детей-сирот и детей, оставшихся
-без попечения родителей, и лиц, потерявших в период обучения обоих родителей или единственного
-родителя, изложено в письме Комитета по науке и высшей школе Правительства Санкт-Петербурга.<br/>
+The procedure for purchasing tickets by students from among orphans and children left without parental care, and those who lost both parents or a single parent during the period of study, is set out in a letter to the Committee on Science and Higher School of the Government of St. Petersburg.br/>
     ]]>
     </string>
-    <string name="title_trip">Оформление льготного проезда на городском общественном транспорте</string>
-    <string name="support_a">Обучающиеся, оставшиеся без попечения родителей</string>
-    <string name="support_b">Обучающиеся, потерявшие родителя</string>
-    <string name="support_c">Обучающиеся-инвалиды (имеющие родителей-инвалидов)</string>
-    <string name="support_d">Участники военных действий</string>
-    <string name="support_e">Обучающиеся, пострадавшие в результате радиационных катастроф</string>
-    <string name="support_f">Обучающиеся, имеющие тяжелое материальное положение</string>
-    <string name="support_g">Обучающиеся, нуждающиеся в поддержке по ухудшению здоровья или заболеванию</string>
-    <string name="support_h">Обучающиеся, ставшие жертвами чрезвыйчаных обстоятельств</string>
-    <string name="support_i">Семьи, состоящие из обучающихся</string>
-    <string name="support_j">Беременность обучающихся и роды</string>
-    <string name="support_k">Обучающиеся в связи с рождением (усыновлением) ребенка</string>
-    <string name="support_l">Обучющиеся по уходу за ребенком</string>
-    <string name="support_m">Доноры</string>
-    <string name="support_n">Обучающиеся, проживающие в общежитии (дети-сироты и дети, оставшиеся без попечения родителей)</string>
-    <string name="support_o">Организация отдыха</string>
-    <string name="support_p">Прохождение оздоровления в бассейне</string>
-    <string name="title_support_a">ОБУЧАЮЩИЕСЯ, ЯВЛЯЮЩИЕСЯ ДЕТЬМИ-СИРОТАМИ И ДЕТЬМИ, ОСТАВШИМИСЯ БЕЗ ПОПЕЧЕНИЯ РОДИТЕЛЕЙ</string>
+    <string name="support_a"> Students left without parental care </string>
+    <string name="support_b">Students who lost one of the parents</string>
+    <string name="support_c">Disabled students (having disabled parents) </string>
+    <string name="support_d">Combatants</string>
+    <string name="support_e"> Students affected by radiation disasters </string>
+    <string name="support_f"> Students with a difficult financial situation </string>
+    <string name="support_g"> Students in need of support because of poor health or disease </string>
+    <string name="support_h"> Students who became victims of emergencies </string>
+    <string name="support_i"> Families consisting of students </string>
+    <string name="support_j"> Pregnancy of students and giving birth </string>
+    <string name="support_k"> Students with the birth (adoption) of a child </string>
+    <string name="support_l">Students taking care for a child</string>
+    <string name="support_m">Donors</string>
+    <string name="support_n"> Students living in a dormitory (orphans and children left without parental care)</string>
+    <string name="support_o"> Recreation organization </string>
+    <string name="support_p"> Rehabilitation in the pool </string>
+    <string name="title_support_a"> STUDENTS WHO ARE ORPHANS AND LEFT WITHOUT PARENTAL CARE </string>
     <string name="text_support_a" formatted="false"><![CDATA[
-    <br/>Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов<br/><br/>
+    <br/> To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month. <br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b> Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия свидетельства о рождении; документы, подтверждающие отсутствие родителей: копии свидетельств
-    о смерти; копии постановлений суда о лишении родительских прав или решение суда об установлении
-    опеки; отобрании ребенка; признание родителей безвестно отсутствующими; объявлении умершими;
-    признании недееспособными; копии приговора суда об осуждении родителей; медицинский документ о
-    длительной болезни родителей, препятствующей выполнению ими своих обязанностей; документ,
-    подтверждающий то, что ребенок был подкинут; материалы о розыске родителей и др.<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Copy of birth certificate; documents confirming the absence of parents: copies of death certificates; copies of court decisions on deprivation of parental rights or a court decision establishing guardianship; removal of a child from parental custody; recognition of parents as missing; declaration of death; recognition as incapable; copies of the court verdict on the conviction of parents; a medical document on parents\' long-term illness that prevents them from performing their duties; a document confirming that the child was abandoned; materials about the search for parents and others. <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written.<br/><br/>
 
-    <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
+    <b>Payment amount:</b> up to 11000 rubles<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/>
+    Financial assistance in this category can be received no more than once in 3 months. <br/>
     ]]>
     </string>
     <string name="text_support_b" formatted="false"><![CDATA[
-    <br/>К данной категории относятся обучающиеся, потерявшие обоих или одного родителя<br/><br/>
+    <br/> This category includes students who have lost both or one parent. <br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить
-    комплект документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive financial assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month. <br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b> Required documents: <b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия свидетельства о смерти; Копия свидетельства о рождении<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Copy of death certificate; Copy of birth certificate <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 30000 рублей<br/><br/>
-
-Материальную помощь по данной категории можно получить разово, в течение 6 месяцев с момента потери.<br/>
+    <b> Payment amount:</b> upto 30000 rubles<br/><br/>
+Financial assistance in this category can be received one-time, within 6 months from the date of loss.<br/>
     ]]>
     </string>
     <string name="text_support_c" formatted="false"><![CDATA[
-    <br/>ОБУЧАЮЩИЕСЯ, РОДИТЕЛИ КОТОРЫХ (ОДИН ИЛИ ОБА) ЯВЛЯЮТСЯ ИНВАЛИДАМИ I, II ГРУППЫ<br/><br/>
+    <br/> STUDENTS, PARENTS OF WHICH (ONE OR BOTH) ARE DISABLED PEOPLE(GROUP I OR II) <br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b> Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия действующей справки об инвалидности родителя; Копия свидетельства о рождении<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - A copy of the current certificate of disability of the parent; Copy of birth certificate <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+   <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-   Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/><br/>
+   Financial assistance in this category can be received no more than once in 3 months. <br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, ЯВЛЯЮЩИЕСЯ ДЕТЬМИ-ИНВАЛИДАМИ, ИНВАЛИДАМИ I, II И III ГРУПП, ИНВАЛИДАМИ С ДЕТСТВА<br/><br/>
+   DISABLED STUDENTS (GROUP I, II OR III), DISABLED SINCE CHILDHOOD<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+To receive financial assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month. <br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия действующей справки об инвалидности<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - Copy of valid disability certificate <br/>
+   - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
+   <b>Payment amount: </b> up to 11000 rubles<br/><br/>
 
-   Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/><br/>
+   Financial assistance in this category can be received no more than once in 3 months. <br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, ЯВЛЯЮЩИЕСЯ ИНВАЛИДАМИ ВСЛЕДСТВИЕ ВОЕННОЙ ТРАВМЫ ИЛИ ЗАБОЛЕВАНИЯ, ПОЛУЧЕННЫМИ В
-   ПЕРИОД ПРОХОЖДЕНИЯ ВОЕННОЙ СЛУЖБЫ И (ИЛИ) ВЕТЕРАНАМИ БОЕВЫХ ДЕЙСТВИЙ<br/><br/>
+   STUDENTS, WHO ARE DISABLED DUE TO MILITARY INJURY OR DISEASE RECEIVED DURING A MILITARY SERVICE AND (OR) MILITARY ACTIONS VETERANS <br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   To receive financial assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month. <br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия действующей справки об инвалидности (заключения военно-врачебной комиссии) и (или)
-   копия удостоверения ветерана боевых действий<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - A copy of the current certificate of disability (the conclusion of the military-medical commission) and (or) a copy of the certificate of the veteran of military actions <br/>
+   - Copy of valid disability certificate <br/>
+   - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-  <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+  <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-  Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/>
+  Financial assistance in this category can be received no more than once in 3 months.<br/>
     ]]>
     </string>
     <string name="text_support_d" formatted="false"><![CDATA[
-    <br/>К данной категории относятся обучающиеся из числа граждан, проходивших в течение не менее
-    трех лет военную службу по контракту в Вооруженных Силах Российской Федерации, во внутренних
-    войсках Министерства внутренних дел Российской Федерации, в инженерно-технических, дорожно-строительных
-    воинских формированиях при федеральных органах исполнительной власти и в спасательных воинских
-    формированиях федерального органа исполнительной власти, уполномоченного на решение задач в области
-    гражданской обороны, Службе внешней разведки Российской Федерации, органах федеральной службы
-    безопасности, органах государственной охраны и федеральном органе обеспечения мобилизационной
-    подготовки органов государственной власти Российской Федерации на воинских должностях, подлежащих
-    замещению солдатами, матросами, сержантами, старшинами, и уволенных с военной службы по основаниям,
-    предусмотренным подпунктами «б» - «г» пункта 1, подпунктом «а» пункта 2 и подпунктами «а» - «в»
-    пункта 3 статьи 51 Федерального закона от 28 марта 1998 года N 53-ФЗ «О воинской обязанности и военной службе».<br/><br/>
+    <br/> This category includes students from among  citizens who have been serving for at least three years under contract in the Armed Forces of the Russian Federation, in the internal troops of the Ministry of Internal Affairs of the Russian Federation, in engineering, road-building military units under federal executive bodies and in the rescue military units of the federal executive body authorized to carry out tasks in the field of civil defense, the Foreign Intelligence Service of Russia of the Russian Federation, federal security service agencies, state security agencies and the federal body providing mobilization training for state authorities of the Russian Federation in military posts subject to replacement by soldiers, sailors, sergeants, sergeant majors and dismissed from military service on the grounds provided for by sub-paragraphs b. “G” of clause 1, subparagraph “a” of clause 2, and subparagraphs “a” - “c” of clause 3 of Article 51 of the Federal Law No. 53-FZ of March 28, 1998 “On Military Duty and Military Service.” <br/> < br />    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    <b>Required documents:</b><br/>
 
-    <b>Необходимые документы:</b><br/>
+    - Application for financial assistance <br/>
+    - A copy of a military ID or a copy of a certificate issued by a body of social support for the population at the place of permanent registration (who are disabled and veterans of military actions) <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия военного билета или копия справки, выдаваемой органом социальной поддержки населения по
-     месту постоянной регистрации (являющимся инвалидами и ветеранами боевых действий)<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
 
-    <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/>
+    <b>Payment amount:</b> up to 7500 rubles<br/><br/>
+
+    Financial assistance in this category can be received no more than once in 3 months.<br/>
     ]]>
     </string>
     <string name="text_support_e" formatted="false"><![CDATA[
-    <br/>К данной категории относятся обучающиеся, пострадавшие в результате аварии на Чернобыльской АЭС,
-    ядерных испытаний на Семипалатинском полигоне и других радиационных катастрофах<br/><br/>
+    <br/> This category includes students affected by the accident at the Chernobyl nuclear power plant, nuclear tests at the Semipalatinsk test site and other radiation disasters. <br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents </b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия удостоверения (справки) лица, пострадавшего в результате аварии на Чернобыльской АЭС
-    и других радиационных катастрофах или оригинал справки, выдаваемой органом социальной
-    поддержки населения по месту постоянной регистрации (пострадавшим в результате аварии на
-    Чернобыльской АЭС и других радиационных катастроф)<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/>
+    - Application for financial assistance <br/>
+    - A copy of the certificate of the person injured in the accident at the Chernobyl nuclear power plant and other radiation disasters or the original certificate issued by the body of social support for the population at the place of permanent registration (for those who were affected by the Chernobyl nuclear power plant and other radiation disasters) <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 7 500 рублей<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/><br/>
+    <b>Payment amount:</b> up to 7500 rubles<br/><br/>
+
+    Financial assistance in this category can be received no more than once in 3 months.<br/><br/>
     ]]>
     </string>
     <string name="text_support_f" formatted="false"><![CDATA[
-    <br/>ОБУЧАЮЩИЕСЯ ИЗ МНОГОДЕТНЫХ СЕМЕЙ<br/><br/>
+    <br/> STUDENTS FROM MULTI-CHILDREN FAMILIES <br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b>Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия действующего свидетельства многодетной семьи; копия свидетельства о рождении<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - A copy of the current certificate of a multi-children family; copy of birth certificate <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в полгода.<br/><br/>
+    <b>Payment amount:</b> up to 11000 rubles<br/><br/>
 
-   ОБУЧАЮЩИЕСЯ ИЗ НЕПОЛНЫХ СЕМЕЙ (ОДИН РОДИТЕЛЬ, ОДИНОКАЯ МАТЬ)<br/><br/>
+    Financial assistance in this category can be received no more than once in 6 months.<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   STUDENTS FROM SINGLE-PARENT FAMILIES<br/><br/>
 
-  <b>Необходимые документы:</b><br/>
+       To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия документов подтверждающих наличие одного родителя (свидетельства о смерти одного из
-   родителей; справки №025 с записью об отце со слов матери; решения суда о признании родителя
-   безвестно отсутствующим; решения суда о лишении одного из родителей родительских прав), копия
-   свидетельства о рождении<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+  <b>Required documents:</b><br/>
 
-   <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
+   - Application for financial assistance <br/>
+   - A copy of documents confirming having only one parent (death certificate of one of the parents; certificate No. 025 with a record about the father from the mother`s words a court decision recognizing the parent as missing; a court decision depriving one of the parents of parental rights), a copy of the birth certificate<br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   Материальную помощь по данной категории можно получить не чаще, чем 1 раз в полгода.<br/><br/>
+   <b>Payment amount:</b> up to 11000 rubles<br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, ОБА РОДИТЕЛЯ КОТОРЫХ ЯВЛЯЮТСЯ ПЕНСИОНЕРАМИ<br/><br/>
+    Financial assistance in this category can be received no more than once in 6 months.<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   STUDENTS, BOTH PARENTS OF WHICH ARE PENSIONERS <br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копии пенсионных удостоверений родителей; копия свидетельства о рождении<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   <b>Required documents:</b><br/>
 
-   <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+   - Application for financial assistance <br/>
+   - Copies of parents\' pension certificates; copy of birth certificate <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   Материальную помощь по данной категории можно получить не чаще, чем 1 раз в полгода.<br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, ВРЕМЕННО ОКАЗАВШИЕСЯ В ТЯЖЕЛОМ МАТЕРИАЛЬНОМ ПОЛОЖЕНИИ В СВЯЗИ С РАСХОДАМИ НА
-   ПРОЕЗД К МЕСТУ ПОСТОЯННОГО ПРОЖИВАНИЯ И ОБРАТНО К МЕСТУ УЧЕБЫ ПО ТЕРРИТОРИИ РОССИЙСКОЙ
-   ФЕДЕРАЦИИ, В СЛУЧАЕ ТЯЖЕЛОЙ БОЛЕЗНИ ИЛИ СМЕРТИ РОДИТЕЛЕЙ ИЛИ БЛИЗКИХ РОДСТВЕННИКОВ, А ТАКЖЕ
-   В ИНЫХ ЧРЕЗВЫЧАЙНЫХ СИТУАЦИЯХ (ЧАСТИЧНОЕ ВОЗМЕЩЕНИЕ СТОИМОСТИ)<br/><br/>
+   <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   Financial assistance in this category can be received no more than once in 6 months.<br/><br/>
 
-  <b>Необходимые документы:</b><br/>
+   Students, who are temporarily in a difficult financial situation with regard to travel expenses to the place of residence and back to the place of study on the territory of the Russian Federation, in cases of severe illness or death of parents or close relatives as well as in other emergencies (PARTIAL REIMBURSEMENT) <br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копии справок из медицинского учреждения или свидетельства о смерти и оригиналы проездных
-   билетов до места постоянного проживания и обратно к месту учебы, копия документов,
-   подтверждающих родство<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+  <b>Required documents:</b><br/>
 
-   Материальную помощь по данной категории можно получить разово.<br/><br/>
+   - Application for financial assistance <br/>
+   - Copies of certificates from a medical institution or death certificate and original travel tickets to the place of permanent residence and back to the place of study, a copy of documents confirming the relationship <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, ОКАЗАВШИЕСЯ В ТЯЖЕЛОМ МАТЕРИАЛЬНОМ ПОЛОЖЕНИИ В СВЯЗИ СО СМЕРТЬЮ БЛИЗКИХ
-   РОДСТВЕННИКОВ (ЗА ИСКЛЮЧЕНИЕМ СМЕРТИ РОДИТЕЛЕЙ)<br/><br/>
+   <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-   К данной категории относятся обучающиеся, временно оказавшиеся в тяжелом материальном положение в
-   связи с тяжелой болезнью или смертью близких родственников (за исключением смерти родителей).<br/><br/>
+Financial assistance in this category can be received once.<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   STUDENTS WHO ARE CURRENTLY ARE IN DIFFICULT FINANCIAL SITUATION IN CONNECTION WITH THE DEATH OF CLOSE RELATIVES (EXCLUDING PARENTS DEATH) <br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+This category includes students who temporarily find themselves in a difficult financial situation due to a serious illness or the death of close relatives (with the exception of the death of parents).<br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия свидетельства о смерти; копии документов, подтверждающих родство<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Сумма выплаты:</b> до 15000 рублей<br/><br/>
+   <b>Required documents:</b><br/>
 
-    Материальную помощь по данной категории можно получить разово.<br/><br/>
+   - Application for financial assistance <br/>
+   - Copy of death certificate; copies of documents confirming the relationship <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    ОБУЧАЮЩИЕСЯ, СРЕДНЕДУШЕВОЙ ДОХОД СЕМЬИ КОТОРЫХ НЕ ПРЕВЫШАЕТ РАЗМЕР ПРОЖИТОЧНОГО МИНИМУМА<br/><br/>
+    <b>Payment amount:</b> up to 15000 rubles<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    Financial assistance in this category can be received once.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+    STUDENTS WHO ARE FROM FAMILIES, WHERE AVERAGE PER CAPITA INCOME IS BELOW THE SUBSISTENCE LEVEL <br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия справки о получении государственной социальной помощи (действительна 1 год с даты
-   оказания государственной социальной помощи)<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Сумма выплаты:</b> до 15000 рублей<br/><br/>
+   <b>Required documents:</b><br/>
 
-   Материальную помощь по данной категории можно получить не чаще, чем 1 раз в 3 месяца.<br/>
+   - Application for financial assistance <br/>
+   - Copy of certificate of state social assistance (valid for 1 year from the date of state social assistance) <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
+
+   <b>Payment amount:</b> up to 15000 rubles<br/><br/>
+
+Financial assistance in this category can be received no more than once in 3 months.<br/><br/>
     ]]>
     </string>
     <string name="text_support_g" formatted="false"><![CDATA[
-    <br/>ОБУЧАЮЩИЕСЯ, С СЕРЬЕЗНЫМ УХУДШЕНИЕМ ЗДОРОВЬЯ, ПОДВЕРГШИМСЯ ДОРОГОСТОЯЩЕМУ ЛЕЧЕНИЮ<br/><br/>
+    <br/> STUDENTS, WITH SERIOUS ILL HEALTH , HAVING GOT EXPENSIVE CARE <br/><br/>
 
-    К данной категории относятся обучающиеся с серьезным ухудшением здоровья, подвергшимся
-    дорогостоящему лечению (в том числе частичная оплата медицинских операций, реабилитационных
-    курсов, приобретения дорогостоящих медикаментов, платных медицинских осмотров и обследований,
-    профилактических прививок против инфекционных заболеваний).<br/><br/>
+    This category includes students with a serious ill health, who have undergone expensive care (including partial payment for medical operations, rehabilitation courses, purchase of expensive medicines, paid medical examinations and examinations, preventive vaccinations against infectious diseases).<br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект документов
-    в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b>Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копии справок из медицинского учреждения (в том числе направление врача из государственного
-    медицинского учреждения) и именных квитанций об оплате (в случае если плательщиком является не
-    заявитель, то документы, подтверждающие родство с плательщиком)<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Copies of certificates from a medical institution (including a doctor’s referral from a public medical institution) and personal payment receipts (if the payer is not an applicant, then documents confirming the relationship with the payer) <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 15000 рублей<br/><br/>
 
-    Материальную помощь по данной категории можно получить разово.<br/><br/>
+    <b>Payment amount:</b> up to 15000 rubles<br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, НАХОДЯЩИЕСЯ НА ДИСПАНСЕРНОМ УЧЕТЕ В СВЯЗИ С ХРОНИЧЕСКИМИ ЗАБОЛЕВАНИЯМИ<br/><br/>
+    Financial assistance in this category can be received once.<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов или председателю своего профбюро.<br/><br/>
+   STUDENTS WHO ARE AT THE DISPENSARY ACCOUNT IN CONNECTION WITH CHRONIC DISEASES <br/><br/>
 
-  <b>Необходимые документы:</b><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Оригинал действующей справки из медицинского учреждения<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+  <b>Required documents:</b><br/>
 
-    <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+   - Application for financial assistance <br/>
+   - Original valid certificate from medical institution <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в полгода.<br/><br/>
+    <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-   ОБУЧАЮЩИЕСЯ С СЕРЬЕЗНЫМ УХУДШЕНИЕМ ЗДОРОВЬЯ БЛИЗКИХ РОДСТВЕННИКОВ, ПОДВЕРГШИХСЯ ДОРОГОСТОЯЩЕМУ ЛЕЧЕНИЮ<br/><br/>
+Financial assistance in this category can be received no more than once in 6 months.<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект документов
-   в Профсоюзную организацию студентов и аспирантов или председателю своего профбюро.<br/><br/>
+   STUDENTS,WHO HAVE CLOSE RELATIVES WITH SERIOUS ILL HEALTH, HAVING GOT EXPENSIVE CARE <br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копии справок из медицинского учреждения (в том числе направление врача из государственного
-   медицинского учреждения) и именных квитанций об оплате (в случае если плательщиком является не
-   заявитель, то документы, подтверждающие родство с плательщиком)<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   <b>Required documents:</b><br/>
 
-   <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+   - Application for financial assistance <br/>
+   - Copies of certificates from a medical institution (including a doctor’s referral from a public medical institution) and personal payment receipts (if the payer is not an applicant, then documents confirming the relationship with the payer) <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   Материальную помощь по данной категории можно получить разово.<br/>
+   <b>Payment amount:</b> up to 7500 rubles<br/><br/>
+
+   Financial assistance in this category can be received once.<br/>
     ]]>
     </string>
     <string name="text_support_h" formatted="false"><![CDATA[
-    К данной категории относятся обучающиеся, ставшие жертвами чрезвычайных обстоятельств
-    (стихийных бедствий, аварий, вооруженных конфликтов, экологических катастроф, пожаров, эпидемий,
-    разрушения или затопления жилья и т.п.).<br/><br/>
+    This category includes students who are victims of emergencies (natural disasters, accidents, armed conflicts, environmental disasters, fires, epidemics, the destruction or flooding of housing, etc.).<br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия документа уполномоченного органа, подтверждающего ущерб от чрезвычайной ситуации<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - A copy of the document of the authorized body confirming the damage from an emergency <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
+   <b>Payment amount:</b> up to 11000 rubles<br/><br/>
 
-   Материальную помощь по данной категории можно получить разово.<br/>
+   Financial assistance in this category can be received once.<br/>
     ]]>
     </string>
     <string name="text_support_i" formatted="false"><![CDATA[
-   <br/>ОБУЧАЮЩИЕСЯ, ВСТУПИВШИЕ В БРАК<br/><br/>
+   <br/>STUDENTS WHO GOT MARRIED<br/><br/>
 
-   К данной категории относятся обучающиеся, которые вступили в брак<br/><br/>
+   This category includes students who recently got married. <br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить
-   комплект документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия свидетельства о заключении брака и оригиналы справок от обоих супругов с места
-    учебы<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - Copy of marriage certificate and originals of certificates from both spouses from the place of study <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   <b>Сумма выплаты:</b> до 15000 рублей<br/><br/>
+   <b>Payment amount:</b> up to 15000 rubles<br/><br/>
 
-   Материальную помощь по данной категории можно получить разово, в течение 6 месяцев с момента вступления в брак.<br/><br/>
+   Financial assistance in this category can be received one-time, within 6 months from the date of marriage.<br/><br/>
 
-   ОБУЧАЮЩИЕСЯ, ЖИВУЩИЕ В БРАКЕ<br/><br/>
+   STUDENTS WHO ARE MARRIED<br/><br/>
 
-   К данной категории относятся семьи, в которых оба супруга являются обучающимися.<br/><br/>
+   This category includes families in which both spouses are students..<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Documents required:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия свидетельства о заключении брака и оригиналы справок от обоих супругов с места учебы<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - Copy of marriage certificate and originals of certificates from both spouses from the place of study <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+   <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в полгода.<br/>
+Financial assistance in this category can be received no more than once every 6 months. <br/>
     ]]>
     </string>
     <string name="text_support_j" formatted="false"><![CDATA[
-    <br/>К данной категории относятся обучающиеся, вставшие на учет в медицинском учреждении по беременности,
-    а также находящиеся в отпуске по беременности и родам.<br/><br/>
+    <br/> This category includes students who have registered with the medical institution for pregnancy, as well as those who are on maternity leave.<br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия справки о беременности из медицинского учреждения или справка о постановке на учет в ранние сроки беременности<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - A copy of a certificate of pregnancy from a medical institution or a certificate of registration in the early stages of pregnancy <br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+    <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-Материальную помощь по данной категории можно получить разово.<br/>
+Financial assistance in this category can be received one-time.<br/>
     ]]>
     </string>
     <string name="text_support_k" formatted="false"><![CDATA[
-    <br/>Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    <br/>   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Копия свидетельства о рождении ребенка (Копия решения суда об усыновлении)<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - A copy of the birth certificate of the child (Copy of the court decision on adoption)<br/>
+   - Copy of tax identification number <br/>
+   - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-   <b>Сумма выплаты:</b> до 30000 рублей<br/><br/>
+   <b>Payment amount:</b> up to 30000 rubles<br/><br/>
 
-Материальную помощь по данной категории можно получить разово, в течение 6 месяцев с момента рождения (усыновления)<br/>
+Financial assistance in this category can be received one-time, within 6 months from the moment of birth (adoption)<br/>
     ]]>
     </string>
     <string name="text_support_l" formatted="false"><![CDATA[
-    <br/>ОБУЧАЮЩИЕСЯ, ВОСПИТЫВАЮЩИЕ РЕБЕНКА В ОДИНОЧЕСТВЕ (ОДИНОКАЯ МАТЬ/ОТЕЦ)<br/><br/>
+    <br/> STUDENTS, WHO RAISE CHILDREN ALONE (SINGLE MOTHER / FATHER)<br/><br/>
 
-    К данной категории относятся обучающиеся, воспитывающие ребенка в одиночестве (одинокая мать/отец)<br/><br/>
+    This category includes students who raise a child alone (single mother / father)<br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b>Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия документов подтверждающих наличие одного родителя (свидетельства о смерти одного из
-    родителей; справки №025 с записью об отце со слов матери; решения суда о признании родителя
-    безвестно отсутствующим; решения суда о лишении одного из родителей родительских прав), копия
-    свидетельства о рождении ребенка<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, выписка<br/><br/>
+    - Application for financial assistance <br/>
+    - A copy of the documents confirming the presence of one parent (death certificate of one of the parents; certificate No. 025 with the record about the father from the mother’s words; the court’s decision recognizing the parent as missing; the court’s decision on depriving one of the parents of parental rights);<br/>
+  - Copy of tax identification number <br/>
+  - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
+    <b>Payment amount:</b> up to 11000 rubles<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в три месяца.<br/><br/>
+    Financial assistance in this category can be received no more than once every 3 months.<br/><br/>
 
-    ОБУЧАЮЩИЕСЯ, ИМЕЮЩИЕ РЕБЕНКА<br/><br/>
+    STUDENTS WHO HAVE CHILDREN <br/><br/>
 
-    К данной категории относятся обучающиеся, имеющие ребенка.<br/><br/>
+    This category includes students who have a child..<br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия свидетельства о рождении ребенка<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Copy of child`s birth certificate <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 7500 рублей<br/><br/>
+    <b>Payment amount:</b> up to 7500 rubles<br/><br/>
 
-     Материальную помощь по данной категории можно получить не чаще, чем 1 раз в семестр.<br/><br/>
+    Financial assistance in this category can be received no more than once per semester.<br/><br/>
 
-    ОБУЧАЮЩИЕСЯ, ИМЕЮЩИЕ РЕБЕНКА С СЕРЬЕЗНЫМ УХУДШЕНИЕМ ЗДОРОВЬЯ, ПОДВЕРГНУВШЕГОСЯ ДОРОГОСТОЯЩЕМУ ЛЕЧЕНИЮ<br/><br/>
+    STUDENTS, WHO HAVE A CHILD WITH A DRASTIC DETERIORATION IN THE HEALTH, HAVING GOT EXPENSIVE CARE <br/><br/>
 
-    К данной категории относятся обучающиеся, имеющие ребенка с серьезным ухудшением здоровья,
-    подвергнувшегося дорогостоящему лечению (в том числе частичная оплата медицинских операций,
-    реабилитационных курсов, приобретения дорогостоящих медикаментов, платных медицинских осмотров
-    и обследований, профилактических прививок против инфекционных заболеваний)<br/><br/>
+   This category includes students who have a child with a serious deterioration in health, who has undergone expensive medical (care (including partial payment for medical operations, rehabilitation courses, the purchase of expensive medicines, paid medical examinations and examinations, preventive vaccinations against infectious diseases) <br/><br/>
 
-   Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-   документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+   To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b>Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Копия свидетельства о рождении ребенка и копии справок из медицинского учреждения
-    (направление врача из государственного медицинского учреждения) и именных квитанций об оплате
-    (в случае если плательщиком является не заявитель, то документы, подтверждающие родство с плательщиком)<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Copy of the child’s birth certificate and a copy of certificates from a medical institution (a doctor’s referral from a public medical institution) and personal payment receipts (if the payer is not the applicant, then documents confirming the relationship with the payer)br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-    <b>Сумма выплаты:</b> до 11000 рублей<br/><br/>
+    <b>Payment amount:</b> up to 11000 rubles<br/><br/>
 
-    Материальную помощь по данной категории можно получить разово.<br/>
+    Financial assistance in this category can be received once.<br/>
     ]]>
     </string>
     <string name="text_support_m" formatted="false"><![CDATA[
-    <br/>Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    <br/> To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b>Required documetns:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Оригинал действующей справки донора<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Original current donor certificate <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-     <b>Сумма выплаты:</b>  до 3000 рублей<br/><br/>
 
-     Материальную помощь по данной категории можно получить разово.<br/>
+     <b>Payment amount:</b> up to 3000 rubles<br/><br/>
+
+     Financial assistance in this category can be received once.<br/>
     ]]>
     </string>
     <string name="text_support_n" formatted="false"><![CDATA[
-    <br/>Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Управление студенческого городка (Общежитие №14).<br/><br/>
+    <br/> To receive material assistance, it is necessary to submit a set of documents to the Office of the campus before the 25th of each month (Dormitory No. 14). <br/><br/>
 
-    <b>Необходимые документы:</b><br/>
-    - Заявление на материальную помощь<br/>
-    - Справка о проживании в общежитии, квитанция об оплате, копии документов, подтверждающих отношение обучающегося к указанной категории<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    <b>Required documents:</b><br/>
+    - Application for financial assistance <br/>
+    - Certificate of residence in the dormitory, payment receipt, copies of documents confirming the attitude of the student to the specified category <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>
 
-     <b>Сумма выплаты:</b> до 10000 рублей<br/><br/>
+     <b>Payment amount:</b> up to 10000 rubles<br/><br/>
 
-     Материальную помощь по данной категории можно получать не чаще, чем 1 раз в три месяца.<br/>
+   Financial assistance in this category can be received no more than once every 3 months. <br/>
     ]]>
     </string>
     <string name="text_support_o" formatted="false"><![CDATA[
-    <br/>ОБУЧАЮЩИЕСЯ, ЯВЛЯЮЩИЕСЯ ДЕТЬМИ-СИРОТАМИ И ДЕТЬМИ, ОСТАВШИМИСЯ БЕЗ ПОПЕЧЕНИЯ РОДИТЕЛЕЙ,
-    ОТПРАВЛЯЮЩИЕСЯ НА ОТДЫХ В ОЗДОРОВИТЕЛЬНЫЕ УЧРЕЖДЕНИЯ, РАСПОЛОЖЕННЫЕ НА ТЕРРИТОРИИ РФ<br/><br/>
+    <br/>STUDENTS, WHO ARE ORPHANS AND REMAINED WITHOUT THE PARENTAL CARE, SETTING OFF FOR RECREATION TO HEALTH-IMPROVING INSTITUTIONS, LOCATED ON THE TERRITORY OF THE RUSSIAN FEDERATION<br/><br/>
 
-    Обучающиеся, являющиеся детьми-сиротами и детьми, оставшимися без попечения родителей, лицами
-    из числа детей-сирот и детей, оставшихся без попечения родителей, потерявшие обоих или единственного
-    родителя во время обучения, отправляющиеся на отдых в оздоровительные учреждения, расположенные
-    на территории Российской Федерации<br/><br/>
+    Students who are orphans and left without parental care, persons from among orphans and children left without parental care, who have lost both or their only parent during training, going on holiday to recreational institutions located in the Russian Federation <br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Office of the campus before the 25th of each month (Dormitory No. 14). <br/><br/>
 
-   <b>Необходимые документы:</b><br/>
+   <b>Required documents:</b><br/>
 
-   - Заявление на материальную помощь<br/>
-   - Оригиналы расходных документов на дорогу, квитанция об оплате путевки, копии документов,
-   подтверждающих отношение обучающегося к указанной категории<br/>
-   - Копия ИНН<br/>
-   - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+   - Application for financial assistance <br/>
+   - Original tickets, voucher payment receipt, copies of documents confirming the student’s attitude to the specified category <br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
 
-    <b>Сумма выплаты:</b> до 10000 рублей<br/><br/>
+    <b>Payment amount:</b> up to 10000 rubles<br/><br/>
 
-    Материальную помощь по данной категории можно получить разово<br/>
+    Financial assistance in this category can be received once <br/>
     ]]>
     </string>
     <string name="text_support_p" formatted="false"><![CDATA[
-    <br/>ОБУЧАЮЩИЕСЯ, НУЖДАЮЩИЕСЯ В ОЗДОРОВИТЕЛЬНЫХ ПЛАВАТЕЛЬНЫХ УСЛУГАХ ПО МЕДИЦИНСКИМ ПОКАЗАНИЯМ<br/><br/>
+    <br/> STUDENTS IN NEED OF RECREATIONAL SWIMMING SERVICES REGARDING MEDICAL REASONS <br/><br/>
 
-    Для получения материальной помощи необходимо до 25 числа каждого месяца предоставить комплект
-    документов в Профсоюзную организацию студентов и аспирантов.<br/><br/>
+    To receive material assistance, it is necessary to submit a set of documents to the Trade Union Organization of Students and Postgraduates before the 25th day of each month.<br/><br/>
 
-    <b>Необходимые документы:</b><br/>
+    <b>Required documents:</b><br/>
 
-    - Заявление на материальную помощь<br/>
-    - Справка из медицинского учреждения с назначением прохождения плавания в качестве оздоровления и квитанция об оплате (за 6 месяцев)<br/>
-    - Копия ИНН<br/>
-    - Копия страниц паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
+    - Application for financial assistance <br/>
+    - Help from the medical institution with the appointment of swimming as a recovery and payment receipt (for 6 months)<br/>
+    - Copy of tax identification number <br/>
+    - Copy of the pages of the passport, where the series, number, by whom and when issued and registration are written <br/><br/>паспорта, где указаны серия, номер, кем и когда выдан, прописка<br/><br/>
 
-    <b>Сумма выплаты:</b> до 10000 рублей<br/><br/>
+    <b>Payment amount:</b> up to 10000 rubles<br/><br/>
 
-    Материальную помощь по данной категории можно получить не чаще, чем 1 раз в полгода<br/>
+    Financial assistance in this category can be received no more than once every 6 months <br/>
     ]]>
     </string>
-    <string name="title_doc">Справки студентам, выпускникам и бывшим студентам, выбывшим из вуза до окончания срока обучения</string>
+    <string name="title_doc">Сcertificates for students, graduates and former students who left the university before the end of their studies</string>
     <string name="text_doc" formatted="false"><![CDATA[
-    <br/>В настоящее время в 1-ом учебном корпусе и в Главном учебном корпусе функционируют терминалы
-    (электронные киоски), расположенные в вестибюлях первого этажа зданий.<br/><br/>
-    Посредством указанных терминалов студенты могут самостоятельно оформить и получить на руки ряд справок:<br/><br/>
+    <br/> Currently, there are terminals  located in the lobbies of the ground floor  in the 1st educational building and in the Main educational building.<br/><br/>
+    Through these terminals, students can independently receive a number of certificates:<br/><br/>
 
-    Справки студентам по месту требования:<br/>
-    - по месту работы родителей;<br/>
-    - по месту жительства иногородним студентам – для предоставления льгот по оплате ЖКХ;<br/>
-    - для предоставления по месту учебы по программе второго высшего образования, или учебы в другой образовательной организации.<br/><br/>
+    Certificates for students to submit:<br/>
+    - at parent`s workplace;<br/>
+    - at the place of residence for non-resident students (for the provision of benefits to pay utilities;<br/>
+    - at the place of study on the program of the second higher education, or study in another educational institute.<br/><br/>
 
-    Справки студентам для предоставления в органы социальной защиты населения (для оформления государственной социальной стипендии).<br/><br/>
+    certificates to students for the submission to social protection to the population bodies (for registration of state social scholarships). <br/><br/>
 
-    Для оформления справок через терминал (электронный киоск) студентам необходимо осуществить вход
-    в меню системы посредством своего действующего электронного пропуска.<br/><br/>
+To receive certificates through the terminal, students must log in the system menu by means of their current electronic pass.<br/><br/>
 
-    Уважаемые студенты – экономьте свое время – пользуйтесь терминалами (электронными киосками) для
-    получения справок по месту требования и справок для предоставления в органы социальной защиты населения!<br/><br/>
+    Dear students - save your time - use the terminals (for obtaining certificates for submission at the place of demand or the social security bodies!<br/><br/>
 
-    В случае возникновения проблем при самостоятельном оформлении и получении вышеперечисленных видов
-    справок через терминалы, студенты могут обратиться за получением справок в Сектор учета студентов –
-    Политехническая ул., д.29, 1-й учебный корпус, 3-й этаж, комн.361.<br/><br/>
+In case of problems with self-registration and receipt of the above types of certificates through the terminals, students can apply for information in the Student Accounting Sector - room 361, 3rd floor, 1st Educational Building, 29, Polytechnicheskaya St.<br/><br/>
 
-     <u>Справки студентам в военные комиссариаты (военкоматы)</u><br/><br/>
+     <u> Student certificates for  military commissariats)</u><br/><br/>
 
-    Справки студентам из числа граждан, подлежащих воинскому учету (граждан, подлежащих призыву и граждан,
-    пребывающих в запасе) выдаются в Отделе мобилизационной подготовки – Политехническая ул., д.29,
-    1-й учебный корпус, 1-й этаж, комн.143.<br/><br/>
+   Certificates for students from among citizens who are subject to military recruitment are issued in the Department of Mobilization Training - room 143, 1st floor, 1st academic building, 29, Polytechnicheskaya st..<br/><br/>
 
-    <u>Справки студентам о получаемых стипендиях</u><br/><br/>
+    <u> Student certificates on scholarships </u><br/><br/>
 
-     Справки выдаются в Отделе учета расчетов по оплате труда, стипендии и прочим выплатам –
-     Политехническая ул., д.29, 1-й учебный корпус, 2-й этаж, комн.251.<br/><br/>
+     Certificates are issued in the Department of Accounting for Payroll Payments, Scholarships and Other Payments -  room.251, 2nd floor, 1st academic building, 29, Polytechnicheskaya st.<br/><br/>
 
-     Заказ справок осуществляется по телефону отдела (812)552-66-51 или по адресу электронной почты:
-     ss.dep@buhfin.spbstu.ru с указанием формы справки, ФИО (полностью), периода, за который необходима
-     справка, а также места требования. Выдача справок о доходах, расчетных листков осуществляется
-     при предъявлении паспорта (нотариальной доверенности).<br/><br/>
+ Certificates can be ordered by calling the department at (812) 552-66-51 or by e-mail: ss.dep@buhfin.spbstu.ru indicating the form of the certificate, full name, the period for which the certificate is required, as well as the place of the demand. Issuance of certificates of income, settlement sheets is carried out upon presentation of a passport (notarized power of attorney). <br/><br/>
 
-     <u>Справки об успеваемости с перечнем изученных дисциплин</u><br/><br/>
+     <u> Academic records with a list of subjects studied </u><br/><br/>
 
-     Справки об обучении или о периоде обучения лицам, не прошедшим итоговой аттестации или получившим
-     на итоговой аттестации неудовлетворительные результаты, а также лицам, освоившим часть образовательной
-     программы и (или) отчисленным из образовательной организации – справки об успеваемости с перечнем
-     изученных дисциплин - оформляются и выдаются в дирекциях соответствующих институтов.<br/><br/>
+     Academic records or certificates about the period of study for those who did not pass the final attestation or have unsatisfactory results, as well as for those who have mastered a part of the educational program and (or) expelled from the educational organization - academic records with a list of studied disciplines - are issued in the directorates relevant institutions.<br/><br/>
 
-     <u>Справки-вызовы, дающие право на предоставление гарантий и компенсаций работникам, совмещающим работу с получением образования</u><br/><br/>
+     <u> Certificates, giving the right to provide guarantees and compensation to employees, combining work with education </u><br/><br/>
 
-     Справки-вызовы оформляются и выдаются студентам в дирекциях соответствующих институтов.<br/><br/>
+     СThese certificates are issued to students in the directorates of the corresponding institutes.<br/><br/>
 
-     <u>Справки студентам по месту требования:</u><br/><br/>
-     - По месту работы родителей;<br/>
-     - По месту жительства иногородним студентам – для предоставления льгот по оплате ЖКХ;<br/>
-     - Для предоставления по месту учебы по программе второго высшего образования, или учебы в другой образовательной организации;<br/>
-     - другие.<br/><br/>
+     <u>Certificates for students to submit:<br/>
+    - at parent`s workplace;<br/>
+    - at the place of residence for non-resident students (for the provision            of benefits to pay utilities;<br/>
+    - at the place of study on the program of the second higher education, or  study in another educational institute.<br/><br/>
+;<br/>
+     - others.<br/><br/>
 
-     Справки студентам можно получить без предварительного заказа при предъявлении паспорта в часы приема
-     с 13:30 до 17:30 (в пятницу с 13:30 до 16:30, суббота и воскресенье – выходные дни) в Секторе учета
-     студентов Политехническая ул., д.29, 1-й учебный корпус, 3-й этаж, комн.361.<br/><br/>
+    Certificates  can be received by students without a preliminary order upon presentation of a passport from 13:30 to 17:30 (Friday from 13:30 to 16:30, Saturday and Sunday are days off) in the Student Accounting Sector, room 361, 3rd floor, 1st academic building, 29, Polytechnicheskaya str.<br/><br/>
 
-     <u>Справки студентам для предоставления в органы социальной защиты населения (для оформления государственной социальной стипендии) </u><br/><br/>
+     <u> certificates to students for the submission to social protection to the population bodies (for registration of state social scholarships) </u><br/><br/>
 
-     Справки студентам можно получить без предварительного заказа при предъявлении паспорта в часы приема
-     с 13:30 до 17:30 (в пятницу с 13:30 до 16:30, суббота и воскресенье – выходные дни) в Секторе учета
-     студентов – Политехническая ул., д.29, 1-й учебный корпус, 3-й этаж, комн.361.<br/><br/>
+     Certificates  can be received by students without a preliminary order upon presentation of a passport from 13:30 to 17:30 (Friday from 13:30 to 16:30, Saturday and Sunday are days off) in the Student Accounting Sector, room 361, 3rd floor, 1st academic building, 29, Polytechnicheskaya str.<br/><br/>
 
-     <u>Справки и выписки из приказа о зачислении для регистрации иногородних студентов РФ
-     (а также иностранных граждан, признанных в установленном порядке соотечественниками)</u><br/><br/>
+     <u> Certificates and extracts from the document on enrollment for registration of nonresident students of the Russian Federation (as well as foreign citizens recognized as compatriots in the prescribed manner) </u><br/><br/>
 
-     Для студентов, регистрируемых в общежития СПбПУ, при себе ОБЯЗАТЕЛЬНО иметь ЗАЯВЛЕНИЕ Форма 1
-     (от коменданта общежития) или ОРДЕР на поселение в общежитие. Данный вид справок заказывается
-     лично студентом в Секторе учета студентов – Политехническая ул., д.29, 1-й учебный корпус,
-     3-й этаж, комн.361. Готовые справки выдаются на следующий (после подачи заявки) рабочий день в
-     комн.361. в часы приема студентов с 13:30 до 17:30 (в пятницу с 13:30 до 16:30, суббота и воскресенье – выходные дни).<br/><br/>
+     For students who register in the dormitory of SPbPU, it is MANDATORY to have a STATEMENT FORM 1 (from the commandant of the dormitory) or an order to settle in the dormitory. This type of certificate is ordered personally by a student in the Student Accounting Sector – room 361, 3rd floor, 1st academic building, 29, Polytechnicheskaya str. Сertificates are issued on the next (after filing of the application) business day in room 361. student reception hours from 13:30 to 17:30 (Friday from 13:30 to 16:30, Saturday and Sunday are days off). <br/><br/>
 
-     <u>Cправки в пенсионный фонд России о том, что вы являетесь студентом СПбПУ</u><br/><br/>
+     <u> Certificates to the Russian pension fund that you are a SPbPU student </u><br/><br/>
 
-    Готовую справку (справки) можно получить при предъявлении паспорта на следующий (после отправки заявки)
-    рабочий день в часы приема с 13:30 до 17:30 (в пятницу с 13:30 до 16:30, суббота и воскресенье – выходные дни)
-    в Секторе учета студентов – Политехническая ул., д.29, 1-й учебный корпус, 3-й этаж, комн.361.
-    Подать заявку на получение справки в пенсионный фонд: https://www.spbstu.ru/students/enquiry<br/><br/>
+     Certificates can be received by students on the next (after filing of the application) business day upon presentation of a passport from 13:30 to 17:30 (Friday from 13:30 to 16:30, Saturday and Sunday are days off) in the Student Accounting Sector, room 361, 3rd floor, 1st academic building, 29, Polytechnicheskaya str.
+    Apply for a certificate to the pension fund:
+https://www.spbstu.ru/students/enquiry<br/><br/>
 
-    <u>Справки бывшим студентам, выбывшим из СПбПУ до окончания срока обучения, и выпускникам, окончившим вуз (с 01.01.2014 по настоящее время)</u><br/><br/>
+    <u> Certificates to former students who left SPbPU before the end of the term of study, and graduates who graduated from the university (from 01/01/2014 to the present)</u><br/><br/>
 
-    Готовые справки бывшим студентам и выпускникам выдаются при предъявлении паспорта на следующий
-    (после отправки заявки) рабочий день в студенческом архиве – Политехническая ул., д.29,
-    1-й учебный корпус, 3-й этаж, комн.358 в часы приема с 13:30 до 17:30 (в пятницу с 13:30 до 16:30,
-    суббота и воскресенье – выходные дни).
-    Подать заявку на получение справки: https://www.spbstu.ru/students/enquiry<br/><br/>
+    Certificates can be received by students on the next (after filing of the application) business day upon presentation of a passport from 13:30 to 17:30 (Friday from 13:30 to 16:30, Saturday and Sunday are days off) in the Student Accounting Sector, room 361, 3rd floor, 1st academic building, 29, Polytechnicheskaya str.
+    Apply for a certificate:
+https://www.spbstu.ru/students/enquiry<br/><br/>
 
-    <u>Справки бывшим студентам, выбывшим из СПбПУ до окончания срока обучения, и выпускникам, окончившим вуз (с 01.01.2014 по настоящее время)</u><br/><br/>
+    <u> Certificates to former students who left SPbPU before the end of the term of study, and graduates who graduated from the university (from 01/01/2014 to the present)</u><br/><br/>
 
-    Справки бывшим студентам выдаются в студенческом архиве – Политехническая ул., д.29, 1-й учебный корпус,
-    3-й этаж, комн.358 при предъявлении паспорта  в часы приема с 13:30 до 17:30 (в пятницу с 13:30 до 16:30,
-    суббота и воскресенье – выходные дни).<br/><br/>
+    Certificates to former students are issued in the student archive upon presentation of a passport from 13:30 to 17:30 (Friday from 13:30 to 16:30, Saturday and Sunday are days off) at the adress: room 358, 3rd floor, 1st academic building, 29, Polytechnicheskaya str.<br/><br/>
 
-    <u>Справки бывшим студентам СПбГТЭУ, обучавшимся до 31.12.2015 в Санкт-Петербургском государственном
-    торгово-экономическом университете, и выпускникам, окончившим СПбГТЭУ (до 01.01.2016) </u><br/><br/>
+    <u> Certificates to former Saint Petersburg Electrotechnical University students who studied before December 31, 2015 at the St. Petersburg State University of Trade and Economics, and graduates who graduated from the Saint Petersburg Electrotechnical University (until January 01, 2016)</u><br/><br/>
 
-    Справки бывшим студентам и выпускникам СПбГТЭУ выдаются по адресу Полюстровский пр. 14-а, 2-й этаж,
-    комн.208. Тел.:+7(812)540-14-60, archive-3@spbstu.ru<br/><br/>
+    Certificates to former students and graduates of Saint Petersburg Electrotechnical University are issued at the address room 208, 2nd floor, 14-a, Polyustrovsky pr. Phone: + 7 (812) 540-14-60, archive-3@spbstu.ru <br/><br/>
 
-    <u>Справки и невостребованные документы бывшим студентам, обучавшимся в «Санкт-Петербургском экономико-технологическом колледже питания» до 2015 года</u><br/><br/>
+    <u> Certificates and unclaimed documents to former students who studied at the St. Petersburg Economics and Technology College of Nutrition until 2015 </u><br/><br/>
 
-    Справки и документы выдаются по адресу Приморский пр., д.67. Тел.+7(812)430-45-43.<br/><br/>
+    Certificates and documents are issued at 67, Prymorsky pr. Phone: +7(812)430-45-43.<br/><br/>
 
-    <u>Справки и невостребованные документы бывшим студентам, обучавшимся в «Санкт-Петербургском колледже холодильной промышленности» до 2015 года</u><br/><br/>
+    <u> Certificates and unclaimed documents to former students who studied at the St. Petersburg College of the Refrigeration Industry until 2015 </u><br/><br/>
 
-    Справки и документы выдаются по адресу: Политехническая ул., д.29, Научно-исследовательский корпус, помещение Г.2.06. Тел.534-14-10.<br/><br/>
+    Certificates and documents are issued at the following address: Room Г.2.06., Research building, 29, Polytechnicheskaya str. Phone: 534-14-10.<br/><br/>
 
-    <u>Справки бывшим студентам, выбывшим из СПбПУ до окончания срока обучения, и выпускникам, окончившим вуз (в срок до 31.12.2013)</u><br/><br/>
+    <u> Certificates to former students who left SPbPU before the end of their studies, and graduates who graduated from an institution of higher education (before December 31, 2013) </u><br/><br/>
 
-    Справки выдаются в Архиве СПбПУ Управления делами. Тел.:+7(812)534-14-10, Политехническая ул.,
-    д.29, Научно-исследовательский корпус, помещение Г.2.06 http://www.spbstu.ru/structure/archive_spbpu/<br/><br/>
+    Certificates are issued in the Archives of SPbPU. Phone: +7(812)534-14-10, Room Г.2.06, Research building, 29, Polytechnicheskaya str. http://www.spbstu.ru/structure/archive_spbpu/<br/><br/>
 
-    Невостребованные документы выпускников, окончивших вуз, и отчисленных студентов (аттестаты, дипломы об окончании техникума и т.д.).<br/><br/>
+    Unclaimed documents of graduates and expelled students (academic records, diplomas of the technical school, etc.). <br/><br/>
 
-    С 1995 года по 2013 год выдаются по адресу: Полюстровский пр. 14-а 2-й этаж. Тел.+7(812)540-78-96.<br/><br/>
+    From 1995 to 2013 are issued at: 2nd floor, 14-a, Polyustrovsky pr. Phone: +7(812)540-78-96.<br/><br/>
 
-   До 1994 года выдаются по адресу: Политехническая ул., 29, Научно-исследовательский корпус, помещение Г.2.06. Тел:534-14-10.<br/><br/>
+   Until 1994, issued at: Г.2.06., Research building, 29, Polytechnicheskaya str. Phone:534-14-10.<br/><br/>
 
-   Документы студентов, которые поступали, но не поступили в СПбПУ, выдаются по адресу: Политехническая ул., д.29,
-    Научно-исследовательский корпус, помещение Г.2.06. Тел.+7(812)534-14-10.<br/><br/>
+   Documents of students who applied to but did not enter SPbPU are issued at: room Г.2.06., Research building, 29, Polytechnicheskaya str. Phone: +7(812)534-14-10.<br/><br/>
 
-    <u>Справки бывшим студентам, обучавшимся в «Санкт-Петербургском институте машиностроения «ЛМЗ-ВТУЗ»» до 2012 года</u><br/><br/>
+    <u> Certificates to former students who studied at the St. Petersburg Institute of Mechanical Engineering until 2012 </u><br/><br/>
 
-    Справки выдаются по адресу: Политехническая ул., д. 29, Научно-исследовательский корпус,
-    помещение Г.2.06. Тел.+7(812)534-14-10.<br/><br/>
+    Certificates are issued at: room Г.2.06., Research building, 29, Polytechnicheskaya str. Phone: +7(812)534-14-10.<br/><br/>
 
-    Как и где забрать невостребованные документы бывших студентов ЛМЗ-ВТУЗ предварительно уточнять
-    информацию по телефону:+7(812)534-14-10, +7(812)540-78-96.<br/><br/>
+    How and where to pick up unclaimed documents of former students of the Institute of Mechanical Engineering clarify beforehand by phone:+7(812)534-14-10, +7(812)540-78-96.<br/><br/>
 
-    <u>Справки и невостребованные документы бывшим студентам, ликвидированных филиалов «Санкт-Петербургского политехнического университета Петра Великого»</u><br/><br/>
+    <u> Certificates and unclaimed documents to former students of liquidated branches of the St. Petersburg Polytechnic University of Peter the Great</u><br/><br/>
 
-    - г. Чебоксары «Чебоксарский институт экономики и менеджмента» (ЧИЭМ).<br/>
-    - г. Череповец «Институт менеджмента и информационных технологий» (ИМИТ).<br/><br/>
+    - Cheboksary, "Cheboksary Institute of Economics and Management".<br/>
+    - Cherepovets, “Institute of Management and Information Technologies”. <br/><br/>
 
-    Справки и невостребованные документы выдаются по адресу: Политехническая ул., д.29, Научно-исследовательский корпус, помещение Г.2.06.<br/><br/>
+    Certificates and unclaimed documents are issued at: room Г.2.06., Research building, 29, Polytechnicheskaya str.<br/><br/>
 
-    Почтовый адрес для отправки запроса: Политехническая ул., д.29, г.Санкт-Петербург, 195251, http://www.spbstu.ru/structure/archive_spbpu/<br/><br/>
+    Postal address for sending a request: 195251, 29, Polytechnicheskaya str., St-Petersbrug://www.spbstu.ru/structure/archive_spbpu/<br/><br/>
 
-    Время работы Архива СПбПУ с понедельника по четверг с 9:00 до 17:30, в пятницу с 9:00 до 16:30. Обед с 13:00 до 13:30.<br/>
+    The working hours of the SPbPU Archive are from Monday to Thursday from 9 a.m. till 5:30 p.m., on Friday from 9 a.m. until 4:30 p.m. Lunch Break from 1 p.m. till 1:30 p.m . <br/>
     ]]>
     </string>
     <string name="info_for_foreigner" formatted="false"><![CDATA[
-    Работу с иностранными студентами в СПбПУ осуществляет отдел по работе с иностранными студентами (ОРИС), находящийся по адресу:<br/>
-    Гражданский пр., 28.кабинеты 202-204.<br/><br/>
-    ОРИС:<br/>
-    - принимает иностранных студентов по всем вопросам обучения: (отчисляет, оформляет академические отпуска,
-    переводит на другие направления, кафедры и институты, оформляет продление регистрации, выдаёт
-    справки и выписки из приказов действующим студентам, выдаёт архивные справки.)<br/>
-   - формирует личное дело иностранного студента, в которое входит экспертное заключение о документах
-   о предыдущем образовании (если оно было получено в другой стране), нотариально заверенный перевод
-   документов о предыдущем образовании на русский язык. На период обучения оригинал документов о
-   предыдущем образовании хранится в личном деле студента. Для получения экспертного заключения студенту
-   необходимо обраться в Центр экспертизы иностранных документов об образовании (далее ЦЭИДО);<br/>
-   - назначает стипендию иностранным студентам, обучающимся по бюджету;<br/>
-   - оформляет БСК для льготного проезда на транспорте по СПб иностранным студентам и аспирантам.<br/>
-   - оформляет студентам, завершившим обучение и прошедшим итоговую аттестацию, диплом и приложение
-   к нему. Для оформления диплома необходимо не позднее апреля месяца обратиться в ОРИС.<br/>
-   - оформляет дубликаты диплома и приложения; <br/>
-   - оформляет Договора на все формы обучения; <br/>
-   - выставляет счета на оплату обучения. Иностранным учащимся при оплате обучения необходимо строго
-   соблюдать сроки оплаты, указанные в договоре.<br/><br/>
+    Work with foreign students in SPbPU is carried out by the department of work with foreign students, located at:<br/>
+    Rooms 202-204, 28, Grazhdansky avenue<br/><br/>
+    Department of work with foreign students:<br/>
+    - Receives foreign students on all study matters: (expells, carries out the academic leave process, transfers to other faculties, departments and institutes, prepares renewal of registration, issues certificates and extracts from orders to current students, issues archival references.) <br/>
+   - forms an individual case of a foreign student, which includes expert opinion on previous education (if it was received in another country), a notarized translation of documents on the previous education into Russian. For the period of study, the original documents on the previous education are stored in the student’s individual files. To obtain an expert opinion, a student must contact the Center for Expertise of Foreign Education Documents.);<br/>
+   - assigns a scholarship to foreign students studying for free;<br/>
+   - draws up transport card for preferential usage of public transport in St. Petersburg to foreign undergraduate and graduate students.<br/>
+   - draws up diploma and its transcripts to students who have completed studying program and have passed the final examination. To obtain a diploma, you must contact the Department of work with foreign students no later than April. <br/>
+   - issues duplicates of diplomas and applications; <br/>
+   - draws up contracts for all forms of education; <br/>
+   - bills for tuition. Foreign students when paying for tuition must strictly observe the terms of payment specified in the contract.<br/><br/>
 
-   Для оформления банковской карты необходимо представить копии следующих документов:<br/>
-   - паспорт (страница с фотографией);<br/>
-   - миграционная карта;<br/>
-   - справка о постановки на миграционный учет;<br/>
-   - виза (если нет визы, то  страница паспорта с русской транскрипцией);<br/><br/>
-
-    ПРОЦЕДУРА ПОСТУПЛЕНИЯ ДЛЯ ИНОСТРАННЫХ ГРАЖДАН ПОСТУПАЮЩИХ ПО НАПРАВЛЕНИЮ МИНИСТЕРСТВА ОБРАЗОВАНИЯ
-    И НАУКИ РФ (ПО КВОТЕ)<br/>
+   To issue a bank card, you must submit copies of the following documents:<br/>
+   - passport (photo page));<br/>
+   - migration card;<br/>
+   - certificate of migration registration;<br/>
+   - visa (if there is no visa, then the page of the passport with Russian transcription);<br/>
     ]]>
     </string>
-    <string name="title_foreign">ПРОЦЕДУРА ПОСТУПЛЕНИЯ ДЛЯ ИНОСТРАННЫХ ГРАЖДАН ПОСТУПАЮЩИХ ПО НАПРАВЛЕНИЮ МИНИСТЕРСТВА ОБРАЗОВАНИЯ
-    И НАУКИ РФ (ПО КВОТЕ)</string>
-    <string name="before">До прибытия в университет</string>
-    <string name="after">По прибытии в университет</string>
+    <string name="title_foreign"> PROCEDURE FOR ENTRANCE OF FOREIGN CITIZENS BY QUOTA)</string>
+    <string name="before"> Before arriving at university </string>
+    <string name="after"> Upon arrival at the university </string>
     <string name="info_before" formatted="false"><![CDATA[
-    ШАГ 1. ЗАПОЛНИТЬ ЗАЯВКУ<br/>
-    Заполнить заявку на сайте http://russia.study.<br/><br/>
+    STEP 1. FILL IN THE APPLICATION <br/>
+    Fill in an application on the website http://russia.study. <br/><br/>
 
-    ШАГ 2. ЛЕГАЛИЗАЦИЯ И ПЕРЕВОД ДОКУМЕНТОВ ОБ ОБРАЗОВАНИИ<br/>
-   Обратите внимание, что по прибытии в университет Ваши документы об образовании должны быть
-   легализованы в той стране, где вы проходили обучение.<br/><br/>
+    STEP 2. LEGALIZATION AND TRANSFER OF EDUCATION DOCUMENTS <br/>
+   Please note that upon arrival at the university, your education documents must be legalized in the country where you studied.<br/><br/>
 
-   Более подробную информацию о данной процедуре смотрите на сайте ЦЭИДО - http://edudoc.spbstu.ru/.<br/><br/>
+   For more information visit the website http://edudoc.spbstu.ru/.<br/><br/>
 
-  Паспорт и иностранные документы об образовании (диплом и приложение) должны быть переведены на
-  русский язык и нотариально заверены до прибытия в университет. Перед подачей документов в отдел
-  по работе с иностранными студентами необходимо сдать иностранные документы об образовании на
-  экспертизу в ЦЭИДО - http://edudoc.spbstu.ru/<br/><br/>
+  Passport and foreign educational documents (diploma and application) must be translated into Russian and notarized before arrival at the university. Before submitting documents to the department for working with foreign students, it is necessary to submit documents on foreign education for taking an expert opinion to the Center for Examination of Foreign Documents on Education: http://edudoc.spbstu.ru/<br/><br/>
 
 
-  ШАГ 3. ПОДТВЕРЖДЕНИЕ ПРИБЫТИЯ В УНИВЕРСИТЕТ<br/>
-   После получения согласия/направления на обучение необходимо по электронной почте или по телефону
-   подтвердить прибытие в университет за 2 недели до приезда для бронирования места в общежитии.<br/><br/>
+  STEP 3. CONFIRMATION OF ARRIVAL AT THE UNIVERSITY <br/>
+   After having been accepted for education, you must confirm your arrival at the university 2 weeks before the arrival in order to book a place in the dormitory by e-mail or by phone.<br/><br/>
 
-   Вы получите адрес общежития от сотрудника СПбПУ по электронной почте после подтверждения Вашего
-   прибытия, указав дату и время.<br/><br/>
+   You will receive the address of the dormitory from SPbPU employee by e-mail after confirming your arrival and specifying the date and time.<br/><br/>
 
-   Контакты:<br/><br/>
+   Contacts:<br/><br/>
 
-Отдел по работе с иностранными студентами:<br/>
-кабинет 204, этаж 2, Гражданский пр.28<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Грачева Елена Борисовна<br/>
+Foreign students department:<br/>
+Room 204, floor 2, 28, Grazhdansky avenue<br/>
+Working hours:10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Elena Gracheva<br/>
 a216@imop.spbstu.ru<br/>
 +7(812)606-62-33<br/><br/><br/>
 
-Подготовительное отделение для иностранных граждан:<br/>
-кабинет 217, этаж 2, Гражданский пр.28<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Мартынова Ирина Валерьевна<br/>
+Preparatory department for foreign citizens:<br/>
+Room 217, floor 2, 28, Grazhdansky avenue. <br/>
+Working hours:10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Irina Martynova <br/>
 martynova_iv@spbstu.ru<br/>
 +7(812)606-62-32<br/><br/>
 
-Вы можете оформить медицинскую страховку по прибытии в университет, чтобы получать медицинскую
-помощь в студенческой поликлинике;<br/><br/>
-Удостоверьтесь, что ваша банковская карта имеет лимит, который позволит Вам оплатить общежитие
-и т.п. (в случае оплаты по карте).<br/>
+You can get medical insurance upon arrival at the university to receive medical care in a student clinic;<br/><br/>
+Make sure your bank card has a limit that allows you to pay for a dormitory, etc. (in case of payment by card). <br/>
     ]]>
     </string>
     <string name="info_after" formatted="false"><![CDATA[
-    ШАГ 1. ОБЩЕЖИТИЕ (ЕСЛИ НЕОБХОДИМО)<br/>
-1. По прибытии заселитесь в общежитие.<br/>
-2. Предоставить охране паспорт и вас проводят в комнату.<br/><br/>
-Контакты:<br/>
+    STEP 1. DORMITORY (IF NECESSARY) <br/>
+1. Upon arrival check in the dormitory. <br/>
+2. Give the security guardian your passport and you will be taken to the rooms.<br/><br/>
+Contacts:<br/>
 
-Комплекс общежитий "на Гражданском проспекте":<br/>
-кабинет 104, этаж 1 (Гражданский пр.28)<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Рублева Юлия Аркадьевна<br/>
+Dormitories complex "on Grazhdansky Avenue": <br/>
+room 104, floor 1, 28, Grazhdanksy avenue<br/>
+Working hours:10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Yulia Rubleva <br/>
 rubleva@spbstu.ru<br/>
 +7(812)534-03-58<br/><br/>
 
-ШАГ 2. ОФОРМЛЕНИЕ ДОКУМЕНТОВ ДЛЯ ПОСТУПЛЕНИЯ<br/>
-В день прибытия или на следующий день (исключение: выходные дни) Вы должны явиться с оригиналом
-паспорта для получения бланков документов, необходимых для поступления.<br/><br/>
+STEP 2. REGISTRATION OF DOCUMENTS FOR THE ADMISSION <br/>
+On the day of arrival or the next day (exception: weekends) you must appear with the original passport to receive the forms of documents required for admission. <br/><br/>
 
-Контакты:<br/>
+Contacts:<br/>
 
-Отдел по работе с иностранными студентами:<br/>
-кабинет 204, этаж 2, Гражданский пр.28<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Грачева Елена Борисовна<br/>
+Foreign students department:<br/>
+Room 204, floor 2, 28, Grazhdansky avenue <br/>
+Working hours:10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Elena Gracheva<br/>
 a216@imop.spbstu.ru<br/>
 +7(812)606-62-33<br/><br/>
 
-Подготовительное отделение для иностранных граждан:<br/>
-кабинет 217, этаж 2, Гражданский пр.28<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Мартынова Ирина Валерьевна<br/>
+Preparatory department for foreign citizens:<br/>
+Room 217, floor 2, 28, Grazhdansky avenue. <br/>
+Working hours:10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Irina Matynova<br/>
 martynova_iv@spbstu.ru<br/>
 +7(812)606-62-32<br/><br/>
-Не забудьте взять электронный талон в начале коридора (этаж 2)<br/><br/>
+Do not forget to take the electronic ticket at the beginning of the corridor. (2nd floor)<br/><br/>
 
-ШАГ 3. ПАСПОРТНО-ВИЗОВЫЙ ОТДЕЛ<br/>
-В зоне таможенного контроля Вам необходимо получить миграционную карту со штампом о прибытии в РФ.
-Необходимо сохранить миграционную карту до следующего пересечения границы.<br/><br/>
+STEP 3. PASSPORT AND VISA DEPARTMENT <br/>
+In the customs control zone, you need to receive a migration card with a stamp on arrival in the Russian Federation.
+You must save the migration card until the next border crossing.<br/><br/>
 
-В день прибытия или на следующий день (исключение: выходные дни) Вы должны явиться в паспортно-визовый
-отдел университета со следующими документами:<br/>
+On the day of arrival or the next day (exception: weekends), you must report to the passport and visa department of the university with the following documents: <br/>
 
-- Оригинал паспорта<br/>
-- Оригинал миграционной карты с пометкой «УЧЕБА»<br/><br/>
+- Original pssport <br/>
+- Original migration card with a note «УЧЕБА»<br/><br/>
 
-Все иностранные граждане, прибывшие в РФ, должны предоставить документы для регистрации в
-паспортно-визовый отдел университета в течение 3-х дней после пересечения границы РФ. При
-несвоевременной постановке на миграционный учет штраф от 5000 руб. и депортация из РФ!<br/><br/>
+All foreign citizens arriving in the Russian Federation must submit documents for registration at the
+university\'s passport and visa department within 3 days after crossing the border of the Russian Federation. In case of late migration registration, a fine of 5,000 rubles. and deportation from the Russian Federation!<br/><br/>
 
-Все иностранные граждане должны продлить студенческую визу/регистрацию за месяц до окончания ее срока.<br/><br/>
-Контакты:<br/>
+All foreign nationals must renew a student visa / registration a month before the end of its term. <br/><br/>
+Contacts:<br/>
 
-Паспортно-визовый отдел:<br/>
-кабинеты 112/113, этаж 1 (Гражданский пр.28)<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Глазова Вероника Геннадиевна<br/>
+Passport and visa department:<br/>
+Rooms 112/113, 1st floor, 28, Grazhdansky avenue<br/>
+Working hours:10:00–17:00. Break: 13:00–14:00<br/>
+Contact person: Veronika Glazova<br/>
 glazova@spbstu.ru<br/>
 +7(812)534-32-22<br/><br/>
 
-ШАГ 4. ЗАЧИСЛЕНИЕ В СПБПУ<br/>
+STEP 4. ADMISSION TO THE SPbPU<br/>
 
-- Взять электронный талон в начале коридора (этаж 2)<br/>
-- Принести заявление («ПАМЯТКА») из 112/113<br/>
-- Студенты обязаны ежегодно оформлять медицинскую страховку и пройти медицинское обследование по прибытии<br/>
-- Студенты обязаны платить за проживание в общежитии в кассе<br/><br/>
+- Take the electronic ticket at the beginning of the corridor (floor 2) <br/>
+- Bring an application («ПАМЯТКА») from room 112/113<br/>
+- Students are required to annually take out medical insurance and undergo a medical examination upon arrival. <br/>
+- Students are required to pay for accommodation in the dormitory at the box office. <br/><br/>
 
-Для зачисления необходимо предоставить для абитуриентов, поступающих
-на бакалавриат, магистратуру, в аспирантуру:<br/>
+For enrollment,  applicants for bachelor's, master's, postgraduate courses must provide:<br/>
 
-- оригинал паспорта<br/>
-- ксерокопия первой страницы паспорта и визы (если есть) на одной странице<br/>
-- подписанная «ПАМЯТКА» из 112/113 кабинета<br/>
-- оригиналы документов об образовании и нотариально- заверенный перевод на русский язык документов и паспорта<br/>
-- копия всех страниц паспорта (1 экз.);<br/>
-- результат экспертизы иностранных документов об образовании из ЦЭИДО. Адрес: Гражданский пр. 28. Каб. 515, 5 этаж<br/>
-- 10 фотографий 3*4 см<br/>
-- результаты экзаменов<br/>
-- подписанное заявление из института<br/>
-- заполненная анкета<br/>
-- медицинская страховка<br/>
-- медицинская справка о состоянии здоровья с отметками о прививках; документ медицинского учреждения
-страны проживания кандидата, подтверждающий отсутствие вируса иммунодефицита человека (ВИЧ) и заболевания СПИД<br/><br/>
+- original passport<br/>
+- photocopy of the first page of the passport and visa (if any) on one page <br/>
+- signed «ПАМЯТКА» from room 112/113<br/>
+- original documents of education and notarized translation of documents and passports into Russian <br/>
+- copy of all passport pages (1 copy);<br/>
+- the result of the examination of foreign education documents from Center for Expertise of Foreign Education Documents at: room 515, floor 5, 28, Grazhdansky avenue <br/>
+- 10 photos 3 * 4 cm <br/>
+- examinations results<br/>
+- signed application from the institute <br/>
+- completed form <br/>
+- medical insurance<br/>
+- a health certificate with vaccination notes; a document of the medical institution of the candidate’s country of residence confirming the absence of a human immunodeficiency virus (HIV) and AIDS<br/><br/>
 
-Для зачисления необходимо предоставить для абитуриентов, поступающих на довузовскую подготовку:<br/>
+For enrollment, you must provide for applicants entering pre-university training: <br/>
 
-- оригинал паспорта<br/>
-- копия всех страниц паспорта (2 экз.)<br/>
-- подписанная «ПАМЯТКА» из 112/113 кабинета<br/>
-- 6 фотографий 3*4 см<br/>
-- заполненная анкета<br/>
-- медицинская страховка<br/>
-- медицинская справка о состоянии здоровья с отметками о прививках; документ медицинского учреждения
-страны проживания кандидата, подтверждающий отсутствие вируса иммунодефицита человека (ВИЧ) и заболевания СПИД;<br/><br/>
+- original passport<br/>
+- copy of all passport pages (2 copies);<<br/>
+- signed «ПАМЯТКА» from room 112/113<br/>
+- 6 photos 3 * 4 cm <br/>
+- completed form <br/>
+- medical insurance <br/>
+- a health certificate with vaccination notes; a document of the medical institution of the candidate’s country of residence confirming the absence of a human immunodeficiency virus (HIV) and AIDS<;<br/><br/>
 
-Иностранные граждане, поступающие на программы магистратуры, сдают междисциплинарный экзамен, на
-программы аспирантуры – вступительный экзамен/собеседование.<br/><br/>
+Foreign citizens applying for graduate programs pass an interdisciplinary exam, for postgraduate programs an entrance exam / interview.<br/><br/>
 
-Зачисление на основные образовательные программы (бакалавриат, магистратура, аспирантура)<br/>
-Отдел по работе с иностранными студентами:<br/>
-кабинет 204, этаж 2, Гражданский пр.28<br/>
-Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Грачева Елена Борисовна<br/>
+Admission to the main educational programs (bachelor, master, postgraduate)<br/>
+Foreign students department:<br/>
+Room 204, floor 2, 28, Grazhdansky avenue <br/>
+Working hours:10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Elena Gracheva<br/>
 a216@imop.spbstu.ru<br/>
 +7(812)606-62-33<br/><br/>
 
-Зачисление на программы русского языка/ довузовской подготовки<br/>
-Подготовительное отделение для иностранных граждан:<br/>
-кабинет 217, этаж 2, Гражданский пр.28<br/>
-o Рабочие часы:10:00–17:00. Обеденный перерыв:13:00–14:00<br/>
-Контактное лицо: Мартынова Ирина Валерьевна<br/>
+Admission to the Russian language / pre-university training programs <br/>
+Preparatory department for foreign citizens:<br/>
+Room 217, floor 2, 28, Grazhdansky avenue 28<br/>
+Working hours: 10:00–17:00. Break:13:00–14:00<br/>
+Contact person: Irina Martynova <br/>
 martynova_iv@spbstu.ru<br/>
 +7(812)606-62-32<br/><br/>
-Касса:<br/>
-кабинет 226, этаж 2 (Гражданский пр.28)<br/><br/>
-Необходимо пройти оформление на обучение в течение 5 рабочих дней.<br/><br/>
-Если вы прошли все шаги успешно – поздравляем, вы поступили в СПбПУ!<br/>
+Box office:<br/>
+Room 226, 2nd floor, 28, Grazhdansky avenue<br/><br/>
+You must complete an application for training within 5 working days. <br/><br/>
+If you have successfully managed with all the steps - congratulations, you entered SPbPU!<br/>
     ]]>
     </string>
-    <string name="title_portal">Электронная информационно-образовательная среда</string>
+    <string name="title_portal"> Electronic information and educational environment </string>
     <string name="info_portal" formatted="false"><![CDATA[
-    Электронная информационно-образовательная среда СПбПУ (далее ЭИОС)  включает в себя электронные
-     информационные ресурсы, электронные образовательные ресурсы, совокупность информационных технологий,
-     телекоммуникационных технологий, соответствующих технологических средств и обеспечивающей освоение
-     обучающимися образовательных программ в полном объеме независимо от места нахождения обучающихся.<br/><br/>
+    The electronic information and educational environment of SPbPU (hereinafter referred to as EIEE) includes electronic information resources, electronic telecommunication technologies, relevant technological means and ensuring that students master the educational programs in full, regardless of the location of the students. <br/><br/>
 
-ЭИОС обеспечивает доступ студентов к учебным планам, рабочим программам дисциплин (модулей), программам
-практик и итоговой аттестации, к изданиям электронных библиотечных систем и электронным образовательным
-ресурсам, указанным в рабочих программах по всем образовательным программам, реализуемым в университете.<br/><br/>
+EIEE provides students with access to the curriculum, work programs of disciplines (modules), programs of practice and final certification, to publications of electronic library systems and electronic educational resources specified in the work programs for all educational programs implemented at the university.<br/><br/>
 
-Кроме этого, ЭИОС СПбПУ обеспечивает проведение всех видов занятий, процедур оценки результатов обучения,
-реализация которых предусмотрена с применением электронного обучения, дистанционных образовательных технологий.<br/><br/>
+In addition, EIEE SPbPU provides all types of classes, procedures for assessing learning outcomes, the implementation of which is provided with using e-learning, distance learning technologies.<br/><br/>
 
-У участников образовательного процесса есть возможность формировать электронное портфолио обучающихся,
-в том числе сохранение работ, рецензий и оценок на эти работы со стороны любых участников образовательного
-процесса. Между участниками образовательного процесса создаётся взаимодействие, в том числе синхронное
-и (или) асинхронное взаимодействие, посредством сети «Интернет».<br/><br/>
+Participants in the educational process have the opportunity to form an electronic portfolio of students, including the preservation of work, reviews and assessments for these works from any participants in the educational process. Interaction is created between the participants of the educational process, including synchronous and (or) asynchronous interaction, via the Internet. <br/><br/>
 
-В состав ЭИОС СПбПУ входят следующие информационные системы и образовательные ресурсы:<br/><br/>
-<u>Распределённая система электронного обучения</u><br/>
-Сеть образовательных порталов институтов и МООК-курсы на различных платформах.<br/>
- Подробнее о системе: http://open.spbstu.ru/sistema-el/<br/>
- Каталог МООК-курсов: http://open.spbstu.ru/mooc/<br/><br/>
- <u>Открытый Политех</u><br/>
-Информационно-образовательный проект, цель которого — формирование единого научно-образовательного
-пространства, объединяющего электронные ресурсы, связанные с научной и образовательной деятельностью.<br/>
+The structure of EIEE SPbPU includes the following information systems and educational resources:<br/><br/>
+<u> Distributed e-learning system </u><br/>
+Network of educational portals of institutes and MOOC courses on various platforms.<br/>
+ Detailed information on the courses: http://open.spbstu.ru/sistema-el/<br/>
+ Catalogue of MOOC courses: http://open.spbstu.ru/mooc/<br/><br/>
+ <u> Open Polytech </u><br/>
+The informational and educational project, the purpose of which is the formation of a unified scientific and educational space, combining electronic resources related to scientific and educational activities.<br/>
  http://open.spbstu.ru<br/><br/>
 
- <u>Личные кабинеты и портфолио</u><br/>
-Личный кабинет обучающегося — это набор сервисов, включающий в себя:  общие данные об обучающемся;
- сведения об учебном плане;  график учебного процесса;  сведения об успеваемости;  сведения о
- договоре и платежах, для обучающихся на внебюджетной основе;  расписание;  электронное портфолио
- и др.<br/>
-  Подробнее: http://open.spbstu.ru/lk-learner/<br/>
- Личный кабинет обучающегося:https://lk.spbstu.ru<br/>
- Личный кабинет сотрудника:https://staff.spbstu.ru<br/><br/>
+ <u> Personal account and portfolio </u><br/>
+The student\'s personal account is a set of services, including general information about the student; curriculum information; study schedule; performance information; information of the contract and payments for students on an extrabudgetary basis; schedule; electronic portfolio, etc.<br/>
+  More ifnormation: http://open.spbstu.ru/lk-learner/<br/>
+ Personal account of a student:https://lk.spbstu.ru<br/>
+ Personal account of the employee:https://staff.spbstu.ru<br/><br/>
 
- <u>Информационно-библиотечный комплекс</u><br/>
-Информационно-библиотечный комплекс обеспечивает доступ ко всем видам информации, включая доступ к
-ресурсам электронных библиотечных систем. С 2005 г. он объединяет Фундаментальную библиотеку, Центр
-информационно-библиотечных систем и Центр цифровой репрографии.<br/>
- Сайт ИБК:https://library.spbstu.ru/ru/<br/><br/>
+ <u> Information Library Complex </u><br/>
+The information library complex provides access to all types of information, including access to the resources of electronic library systems. Since 2005, he has been uniting the Fundamental Library, the Center for Information Library Systems and the Center for Digital Reprography.<br/>
+ Information Library Complex website: https://library.spbstu.ru/ru/<br/><br/>
 
- <u>Сайты университета</u><br/>
-Официальный сайт СПбПУ и сайты структурных подразделений СПбПУ, в том числе:  базовых институтов,
-высших школ, колледжей, лицея, филиала, центров дополнительного образования и переподготовки,
-дирекции основных образовательных программ,  информационно-библиотечного комплекса.<br/>
+ <u>Universirty websites </u><br/>
+The official website of SPbPU and the websites of structural units of SPbPU, including basic institutes, high schools, colleges, lyceum, branch, centers of additional education and retraining, Directorate of basic educational programs, information and library complex.<br/>
  www.spbstu.ru<br/><br/>
 
- <u>Автоматизированные системы управления учебным процессом</u><br/>
-Доступ к информации осуществляется из Личного кабинета, с помощью информационного терминала или АРМ.<br/>
- - АСУ «Студент»<br/>
- - АСУ «Абитуриент»<br/>
- - ИС «Расписание учебных занятий»: http://ruz.spbstu.ru<br/>
- - ИС «Нагрузка вуза»<br/><br/>
+ <u> Automated learning management systems </ u> <br/>
+Access to information is carried out from the Personal Account, using the information terminal.<br/>
+ - ACS «Student»<br/>
+ - ACS «Applicant»<br/>
+ - IS «Schedule»: http://ruz.spbstu.ru<br/>
+ - IS « University load »<br/><br/>
 
- <u>ИТ-сервисы</u><br/>
+ <u>IT-srvices</u><br/>
  - Cистема видеоконференций: http://acs.spbstu.ru/system/login?domain=acs.spbstu.ru&next=%2Fadmin%3Fdomain%3Dacs.spbstu.ru&set-lang=ru<br/>
- - интернет-сервис Антиплагиат: https://spbstu.antiplagiat.ru<br/>
- - сервис онлайн-прокторинга: http://open.spbstu.ru/centr-proktoringa/<br/>
- - единая система аутентификации и  электронная почта: http://open.spbstu.ru/usid/<br/>
- Подробнее: https://www.spbstu.ru/employees/it/<br/><br/>
+ - Internet service Antiplagiarism: https://spbstu.antiplagiat.ru<br/>
+ - online proctoring service: http://open.spbstu.ru/centr-proktoringa/<br/>
+ - unified authentication system and email: http://open.spbstu.ru/usid/<br/>
+ More information: https://www.spbstu.ru/employees/it/<br/><br/>
 
- <u>Официальные группы и страницы</u><br/>
- - Вконтакте: https://vk.com/pgpuspb<br/>
+ <u> Official groups and pages </u><br/>
+ - VKontakte: https://vk.com/pgpuspb<br/>
  - Facebook: https://www.facebook.com/pgpuspb?_rdr<br/>
  - Twitter: https://twitter.com/pgpuspb<br/>
- - Канал на  YouTube: https://www.youtube.com/user/SPBMEDIACENTRE<br/><br/>
+ - YouTube channels: https://www.youtube.com/user/SPBMEDIACENTRE<br/><br/>
     ]]>
     </string>
-    <string name="settings">Настройки</string>
-    <string name="lang_title">Язык</string>
-    <string name="lang_dialog_title">Выберите язык:</string>
-    <string name="reboot">Необходимо перезапустить приложение для принятия изменений</string>
-    <string-array name="entries_lang">
-        <item>Английский</item>
-        <item>Русский</item>
-        <item>Китайский</item>
-    </string-array>
-    <string-array name="entryvalues_lang">
-        <item>en</item>
-        <item>ru</item>
-        <item>cn</item>
-    </string-array>
+    <string name="campus">Map of the campus</string>
+    <string name="building">Maps of the buildings</string>
+    <string name="info">Useful information</string>
 </resources>
